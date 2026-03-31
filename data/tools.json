@@ -1,0 +1,5656 @@
+[
+  {
+    "id": "chatgpt",
+    "naam": "ChatGPT",
+    "slug": "chatgpt",
+    "tagline": "De bekendste AI assistent ter wereld",
+    "beschrijving": "ChatGPT is een conversationele AI-assistent van OpenAI, aangedreven door de krachtige GPT-4 taalmodellen. Het kan complexe vragen beantwoorden, teksten schrijven, code genereren, samenvatten, vertalen en creatief brainstormen. Met miljoenen gebruikers wereldwijd is het de standaard geworden voor AI-assistentie. Het gratis plan biedt toegang tot GPT-3.5, terwijl het Plus-abonnement GPT-4 en geavanceerde functies ontgrendelt zoals beeldherkenning, DALL-E beeldgeneratie en custom GPTs.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.8,
+    "reviews_aantal": 1240,
+    "voor_wie": [
+      "marketeer",
+      "student",
+      "ondernemer",
+      "developer"
+    ],
+    "use_cases": [
+      "tekst schrijven",
+      "code genereren",
+      "samenvatten",
+      "vertalen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Enorm veelzijdig en breed inzetbaar",
+      "Grote community en ecosysteem",
+      "Gratis plan beschikbaar met GPT-3.5"
+    ],
+    "tegen": [
+      "Pro plan vereist voor GPT-4 toegang",
+      "Kan verouderde informatie geven",
+      "Geen real-time internettoegang in gratis plan"
+    ],
+    "affiliate_url": "https://chat.openai.com",
+    "website": "https://openai.com",
+    "logo": "/logos/chatgpt.svg",
+    "alternativen": [
+      "claude",
+      "gemini",
+      "copilot"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "claude",
+    "naam": "Claude",
+    "slug": "claude",
+    "tagline": "De veiligste en meest behulpzame AI assistent",
+    "beschrijving": "Claude is ontwikkeld door Anthropic en staat bekend om zijn nauwkeurigheid, veiligheid en vermogen om lange documenten te analyseren. Met een context window van 200K tokens kan Claude hele boeken, rapporten en codebases in één keer verwerken. Claude excelleert in genuanceerde analyses, creatief schrijven en het volgen van complexe instructies. Het biedt een gratis tier via claude.ai en professionele plannen voor teams en bedrijven.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.7,
+    "reviews_aantal": 890,
+    "voor_wie": [
+      "schrijver",
+      "onderzoeker",
+      "developer",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "lange documenten analyseren",
+      "creatief schrijven",
+      "code review",
+      "onderzoek"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Uitstekend in lange teksten en analyses",
+      "Zeer nauwkeurig en veilig",
+      "200K context window voor grote documenten"
+    ],
+    "tegen": [
+      "Geen beeldgeneratie",
+      "Kleinere plugin-ecosysteem dan ChatGPT",
+      "Soms te voorzichtig in antwoorden"
+    ],
+    "affiliate_url": "https://claude.ai",
+    "website": "https://anthropic.com",
+    "logo": "/logos/claude.svg",
+    "alternativen": [
+      "chatgpt",
+      "gemini",
+      "perplexity"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "gemini",
+    "naam": "Gemini",
+    "slug": "gemini",
+    "tagline": "Google's krachtigste AI met real-time kennis",
+    "beschrijving": "Gemini (voorheen Bard) is Google's meest geavanceerde AI-model. Het combineert tekst-, beeld- en codebegrip in één platform en heeft directe toegang tot actuele Google-zoekresultaten. Gemini is diep geïntegreerd met Google Workspace, waardoor het naadloos samenwerkt met Gmail, Docs en Sheets. Het gratis plan biedt al krachtige functionaliteit, terwijl Gemini Advanced toegang geeft tot het nieuwste Ultra-model.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 21.99,
+    "rating": 4.5,
+    "reviews_aantal": 760,
+    "voor_wie": [
+      "marketeer",
+      "student",
+      "professional",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "zoeken en onderzoek",
+      "tekst genereren",
+      "beelden analyseren",
+      "Google Workspace integratie"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Real-time toegang tot Google zoekresultaten",
+      "Sterke Google Workspace integratie",
+      "Multimodaal: tekst, beeld en code"
+    ],
+    "tegen": [
+      "Minder creatief dan ChatGPT voor schrijftaken",
+      "Advanced vereist Google One abonnement",
+      "Beschikbaarheid verschilt per regio"
+    ],
+    "affiliate_url": "https://gemini.google.com",
+    "website": "https://deepmind.google",
+    "logo": "/logos/gemini.svg",
+    "alternativen": [
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "copilot",
+    "naam": "GitHub Copilot",
+    "slug": "copilot",
+    "tagline": "AI-powered code assistent direct in je editor",
+    "beschrijving": "GitHub Copilot is de toonaangevende AI-code assistent, ontwikkeld door GitHub en OpenAI. Het integreert direct in VS Code, JetBrains en andere editors om real-time code suggesties, functie-aanvullingen en hele codeblokken te genereren. Copilot begrijpt context uit je project en schrijft code in tientallen programmeertalen. Met Copilot Chat kun je ook in natuurlijke taal vragen stellen over je codebase.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 10,
+    "prijs_pro": 19,
+    "rating": 4.6,
+    "reviews_aantal": 2100,
+    "voor_wie": [
+      "developer",
+      "student",
+      "freelancer"
+    ],
+    "use_cases": [
+      "code schrijven",
+      "code review",
+      "debugging",
+      "documentatie genereren"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Directe integratie in populaire editors",
+      "Ondersteunt tientallen programmeertalen",
+      "Copilot Chat voor natuurlijke taal vragen"
+    ],
+    "tegen": [
+      "Geen gratis plan (wel gratis voor studenten)",
+      "Beperkt tot code-gerelateerde taken",
+      "Vereist goede basiskennis programmeren"
+    ],
+    "affiliate_url": "https://github.com/features/copilot",
+    "website": "https://github.com/features/copilot",
+    "logo": "/logos/copilot.svg",
+    "alternativen": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "jasper",
+    "naam": "Jasper",
+    "slug": "jasper",
+    "tagline": "AI marketing platform voor teams en merken",
+    "beschrijving": "Jasper is een AI-contentplatform specifiek ontworpen voor marketing teams. Het biedt meer dan 50 templates voor blogposts, advertentieteksten, social media content, e-mails en landingspagina's. Jasper kent je merkstijl en tone of voice, zodat alle content consistent is. Met de Brand Voice functie en Campaigns feature kunnen teams complete multichannel campagnes genereren vanuit één briefing.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 49,
+    "prijs_pro": 125,
+    "rating": 4.4,
+    "reviews_aantal": 680,
+    "voor_wie": [
+      "marketeer",
+      "copywriter",
+      "content creator",
+      "social media manager"
+    ],
+    "use_cases": [
+      "blogposts schrijven",
+      "advertentieteksten",
+      "social media content",
+      "e-mail marketing"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "50+ gespecialiseerde marketing templates",
+      "Brand Voice voor consistente merkstijl",
+      "Sterk in teamwork en samenwerking"
+    ],
+    "tegen": [
+      "Duurder dan alternatieven",
+      "Geen gratis plan beschikbaar",
+      "Minder geschikt voor niet-marketing taken"
+    ],
+    "affiliate_url": "https://www.jasper.ai",
+    "website": "https://www.jasper.ai",
+    "logo": "/logos/jasper.svg",
+    "alternativen": [
+      "chatgpt",
+      "grammarly",
+      "notion-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "midjourney",
+    "naam": "Midjourney",
+    "slug": "midjourney",
+    "tagline": "Creëer verbluffende AI-kunst en afbeeldingen",
+    "beschrijving": "Midjourney is het toonaangevende AI-beeldgeneratieplatform dat tekst omzet naar verbluffende visuals. Via Discord of de webinterface kun je met simpele beschrijvingen fotorealistische beelden, kunstwerken, illustraties en conceptart genereren. Midjourney v6 levert ongeëvenaarde kwaliteit en stijlcontrole. Het is de favoriete tool van designers, kunstenaars en content creators voor visuele content.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 10,
+    "prijs_pro": 30,
+    "rating": 4.9,
+    "reviews_aantal": 1850,
+    "voor_wie": [
+      "designer",
+      "kunstenaar",
+      "content creator",
+      "marketeer"
+    ],
+    "use_cases": [
+      "beelden genereren",
+      "concept art",
+      "social media visuals",
+      "productfotografie"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Beste beeldkwaliteit op de markt",
+      "Enorme stijlvariatie en controle",
+      "Actieve community voor inspiratie"
+    ],
+    "tegen": [
+      "Geen gratis plan meer beschikbaar",
+      "Werkt primair via Discord",
+      "Geen API voor ontwikkelaars"
+    ],
+    "affiliate_url": "https://www.midjourney.com",
+    "website": "https://www.midjourney.com",
+    "logo": "/logos/midjourney.svg",
+    "alternativen": [
+      "chatgpt",
+      "jasper",
+      "elevenlabs"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "perplexity",
+    "naam": "Perplexity",
+    "slug": "perplexity",
+    "tagline": "AI-zoekassistent met bronvermelding",
+    "beschrijving": "Perplexity is een AI-aangedreven zoekassistent die complexe vragen beantwoordt met actuele informatie en altijd bronnen vermeldt. In tegenstelling tot traditionele chatbots doorzoekt Perplexity het internet in real-time en combineert informatie uit meerdere betrouwbare bronnen tot een helder, samenhangend antwoord. De Pro-versie biedt geavanceerde analyses, bestandsupload en keuze uit verschillende AI-modellen.",
+    "categorie": "AI Zoekmachine",
+    "categorie_slug": "ai-zoekmachine",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.6,
+    "reviews_aantal": 540,
+    "voor_wie": [
+      "onderzoeker",
+      "student",
+      "journalist",
+      "professional"
+    ],
+    "use_cases": [
+      "onderzoek doen",
+      "feiten checken",
+      "actueel nieuws volgen",
+      "bronnen vinden"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Altijd bronvermelding bij antwoorden",
+      "Real-time internettoegang",
+      "Uitstekend voor onderzoek en fact-checking"
+    ],
+    "tegen": [
+      "Minder creatief dan ChatGPT",
+      "Pro functies vereisen abonnement",
+      "Geen team functies beschikbaar"
+    ],
+    "affiliate_url": "https://www.perplexity.ai",
+    "website": "https://www.perplexity.ai",
+    "logo": "/logos/perplexity.svg",
+    "alternativen": [
+      "gemini",
+      "chatgpt",
+      "claude"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "notion-ai",
+    "naam": "Notion AI",
+    "slug": "notion-ai",
+    "tagline": "AI-assistent geïntegreerd in je workspace",
+    "beschrijving": "Notion AI is de ingebouwde AI-assistent van het populaire productiviteitsplatform Notion. Het kan teksten schrijven, samenvatten, vertalen en verbeteren, direct in je notities, databases en projectpagina's. Notion AI begrijpt de context van je workspace en kan informatie uit je eigen documenten gebruiken om relevantere antwoorden te geven. Ideaal voor teams die hun kennisbank willen doorzoeken en content willen genereren zonder Notion te verlaten.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 10,
+    "prijs_pro": 10,
+    "rating": 4.3,
+    "reviews_aantal": 420,
+    "voor_wie": [
+      "projectmanager",
+      "ondernemer",
+      "student",
+      "team lead"
+    ],
+    "use_cases": [
+      "notities samenvatten",
+      "content genereren",
+      "kennisbank doorzoeken",
+      "projectdocumentatie"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Naadloze integratie in Notion workspace",
+      "Begrijpt context van je documenten",
+      "Sterk voor team productiviteit"
+    ],
+    "tegen": [
+      "Alleen beschikbaar binnen Notion",
+      "Extra kosten bovenop Notion abonnement",
+      "Minder krachtig dan standalone AI tools"
+    ],
+    "affiliate_url": "https://www.notion.so/product/ai",
+    "website": "https://www.notion.so",
+    "logo": "/logos/notion-ai.svg",
+    "alternativen": [
+      "chatgpt",
+      "jasper",
+      "grammarly"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "grammarly",
+    "naam": "Grammarly",
+    "slug": "grammarly",
+    "tagline": "AI schrijfassistent voor foutloze teksten",
+    "beschrijving": "Grammarly is de meest gebruikte AI-schrijfassistent ter wereld. Het controleert grammatica, spelling, interpunctie en stijl in real-time, in vrijwel elke applicatie. Met GrammarlyGO, de generatieve AI-functie, kun je ook complete teksten laten schrijven, herschrijven en vertalen. De tool is beschikbaar als browser extensie, desktop app en integratie in populaire tools zoals Google Docs, Slack en Microsoft Office.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 12,
+    "rating": 4.5,
+    "reviews_aantal": 3200,
+    "voor_wie": [
+      "schrijver",
+      "student",
+      "professional",
+      "marketeer"
+    ],
+    "use_cases": [
+      "grammatica checken",
+      "tekst verbeteren",
+      "tone of voice aanpassen",
+      "plagiaatcontrole"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Werkt overal via browser extensie",
+      "Uitstekende grammatica- en stijlcontrole",
+      "GrammarlyGO voor generatieve AI"
+    ],
+    "tegen": [
+      "Beperkte ondersteuning voor Nederlands",
+      "Premium functies zijn betaald",
+      "Focust primair op Engels"
+    ],
+    "affiliate_url": "https://www.grammarly.com",
+    "website": "https://www.grammarly.com",
+    "logo": "/logos/grammarly.svg",
+    "alternativen": [
+      "jasper",
+      "chatgpt",
+      "notion-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "elevenlabs",
+    "naam": "ElevenLabs",
+    "slug": "elevenlabs",
+    "tagline": "De meest realistische AI-stemgeneratie",
+    "beschrijving": "ElevenLabs is het toonaangevende platform voor AI-stemgeneratie en text-to-speech. Het produceert verbluffend realistische stemmen in 29 talen, inclusief Nederlands. Je kunt bestaande stemmen klonen, nieuwe stemmen creëren en lange teksten omzetten naar natuurlijk klinkende audio. ElevenLabs wordt gebruikt door podcasters, content creators, game developers en bedrijven voor voice-overs, audioboeken en toegankelijkheidsoplossingen.",
+    "categorie": "AI Audio",
+    "categorie_slug": "ai-audio",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 5,
+    "rating": 4.7,
+    "reviews_aantal": 920,
+    "voor_wie": [
+      "content creator",
+      "podcaster",
+      "game developer",
+      "marketeer"
+    ],
+    "use_cases": [
+      "text-to-speech",
+      "stem klonen",
+      "voice-overs",
+      "audioboeken"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Meest realistische AI-stemmen op de markt",
+      "Ondersteunt 29 talen inclusief Nederlands",
+      "Stem klonen met slechts enkele minuten audio"
+    ],
+    "tegen": [
+      "Gratis plan heeft beperkte karakterlimieten",
+      "Ethische zorgen rond stem klonen",
+      "Prijzig voor hoog volume gebruik"
+    ],
+    "affiliate_url": "https://elevenlabs.io",
+    "website": "https://elevenlabs.io",
+    "logo": "/logos/elevenlabs.svg",
+    "alternativen": [
+      "midjourney",
+      "jasper",
+      "chatgpt"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "grok",
+    "naam": "Grok",
+    "slug": "grok",
+    "tagline": "xAI's rebelse AI assistent met realtime kennis",
+    "beschrijving": "Grok is de AI-assistent van xAI, het bedrijf van Elon Musk. Het onderscheidt zich door een rebelse, humoristische toon en directe toegang tot realtime data via X (Twitter). Grok 2 is geïntegreerd in X Premium en heeft toegang tot het volledige X-netwerk voor actuele informatie. Het blinkt uit in het beantwoorden van controversiële vragen die andere AI's vermijden.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 8,
+    "prijs_pro": 16,
+    "rating": 4.2,
+    "reviews_aantal": 430,
+    "voor_wie": [
+      "journalist",
+      "ondernemer",
+      "developer",
+      "marketeer"
+    ],
+    "use_cases": [
+      "realtime nieuws",
+      "sociale media analyse",
+      "code genereren",
+      "brainstormen"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Realtime X/Twitter data toegang",
+      "Minder censuur dan andere AI's",
+      "Ingebouwd in X Premium"
+    ],
+    "tegen": [
+      "Vereist X Premium abonnement",
+      "Minder nauwkeurig dan ChatGPT",
+      "Beperkt buiten X ecosysteem"
+    ],
+    "affiliate_url": "https://grok.x.ai",
+    "website": "https://grok.x.ai",
+    "logo": "/logos/grok.svg",
+    "alternativen": [
+      "chatgpt",
+      "gemini",
+      "perplexity"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "copilot-ms",
+    "naam": "Microsoft Copilot",
+    "slug": "microsoft-copilot",
+    "tagline": "AI-assistent diep geïntegreerd in Microsoft 365",
+    "beschrijving": "Microsoft Copilot is de AI-assistent van Microsoft, aangedreven door GPT-4 en Bing. Het is gratis beschikbaar via de Copilot-website en diep geïntegreerd in Windows 11, Edge en Microsoft 365. Voor zakelijke gebruikers biedt Copilot voor M365 integratie in Word, Excel, PowerPoint, Outlook en Teams. Het combineert de kracht van grote taalmodellen met veilige bedrijfsdata.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 30,
+    "rating": 4.3,
+    "reviews_aantal": 1100,
+    "voor_wie": [
+      "professional",
+      "ondernemer",
+      "student",
+      "hr-manager"
+    ],
+    "use_cases": [
+      "documenten schrijven",
+      "e-mails opstellen",
+      "presentaties maken",
+      "data analyseren"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Diep geïntegreerd in Microsoft 365",
+      "Gratis basisversie beschikbaar",
+      "Veilig voor zakelijk gebruik"
+    ],
+    "tegen": [
+      "M365 Copilot is duur (€30/gebruiker/maand)",
+      "Minder krachtig dan standalone ChatGPT",
+      "Vereist Microsoft ecosysteem voor beste ervaring"
+    ],
+    "affiliate_url": "https://copilot.microsoft.com",
+    "website": "https://copilot.microsoft.com",
+    "logo": "/logos/microsoft-copilot.svg",
+    "alternativen": [
+      "chatgpt",
+      "gemini",
+      "notion-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "meta-ai",
+    "naam": "Meta AI",
+    "slug": "meta-ai",
+    "tagline": "Gratis AI assistent van Meta in WhatsApp en Instagram",
+    "beschrijving": "Meta AI is de gratis AI-assistent van Meta, gebouwd op het Llama 3-model. Het is beschikbaar in WhatsApp, Instagram, Facebook Messenger en op meta.ai. Gebruikers kunnen vragen stellen, afbeeldingen genereren en taken laten uitvoeren, direct in hun favoriete sociaal netwerk. Het grote voordeel is de volledige gratis toegang zonder abonnement.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Gratis",
+    "prijs_vanaf": 0,
+    "prijs_pro": 0,
+    "rating": 4.0,
+    "reviews_aantal": 650,
+    "voor_wie": [
+      "student",
+      "marketeer",
+      "content creator",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "vragen beantwoorden",
+      "afbeeldingen genereren",
+      "teksten schrijven",
+      "social media"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "100% gratis zonder beperkingen",
+      "Ingebouwd in WhatsApp en Instagram",
+      "Geen account aanmaken nodig"
+    ],
+    "tegen": [
+      "Minder krachtig dan ChatGPT of Claude",
+      "Privacyzorgen rond Meta datagebruik",
+      "Geen API voor ontwikkelaars"
+    ],
+    "affiliate_url": "https://meta.ai",
+    "website": "https://meta.ai",
+    "logo": "/logos/meta-ai.svg",
+    "alternativen": [
+      "chatgpt",
+      "gemini",
+      "grok"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "mistral",
+    "naam": "Mistral AI",
+    "slug": "mistral-ai",
+    "tagline": "Europese AI-assistent met open source roots",
+    "beschrijving": "Mistral AI is een Frans bedrijf dat krachtige open-source AI-modellen ontwikkelt. Le Chat, hun chatinterface, biedt gratis toegang tot Mistral Large en is volledig AVG-compliant als Europese aanbieder. De modellen zijn populair bij developers vanwege hun efficiëntie en open-source beschikbaarheid. Mistral is een sterk alternatief voor wie privacy en Europese wetgeving belangrijk vindt.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 14.99,
+    "rating": 4.3,
+    "reviews_aantal": 280,
+    "voor_wie": [
+      "developer",
+      "onderzoeker",
+      "ondernemer",
+      "professional"
+    ],
+    "use_cases": [
+      "tekst genereren",
+      "code schrijven",
+      "analyse",
+      "vertalen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Europees en AVG-compliant",
+      "Open-source modellen beschikbaar",
+      "Sterk in code en analyse"
+    ],
+    "tegen": [
+      "Kleinere community dan OpenAI",
+      "Minder integraties dan ChatGPT",
+      "Interface minder gepolijst"
+    ],
+    "affiliate_url": "https://mistral.ai",
+    "website": "https://mistral.ai",
+    "logo": "/logos/mistral-ai.svg",
+    "alternativen": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "featured": false,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "poe",
+    "naam": "Poe",
+    "slug": "poe",
+    "tagline": "Toegang tot alle AI-modellen in één app",
+    "beschrijving": "Poe van Quora is een platform dat toegang biedt tot meerdere AI-modellen in één interface: ChatGPT, Claude, Gemini, Llama en meer. Met één abonnement gebruik je ze allemaal. Poe laat je ook eigen chatbots bouwen en delen. Ideaal voor gebruikers die verschillende modellen willen vergelijken of voor specifieke taken het beste model willen kiezen.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 19.99,
+    "rating": 4.2,
+    "reviews_aantal": 340,
+    "voor_wie": [
+      "developer",
+      "ondernemer",
+      "student",
+      "content creator"
+    ],
+    "use_cases": [
+      "meerdere AI's vergelijken",
+      "chatbots bouwen",
+      "tekst genereren",
+      "onderzoek"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Toegang tot ChatGPT, Claude en Gemini in één app",
+      "Eigen bots bouwen en delen",
+      "Modellen makkelijk vergelijken"
+    ],
+    "tegen": [
+      "Pro plan vereist voor geavanceerde modellen",
+      "Indirecte toegang: niet van de bron",
+      "Soms vertraagde modelupdates"
+    ],
+    "affiliate_url": "https://poe.com",
+    "website": "https://poe.com",
+    "logo": "/logos/poe.svg",
+    "alternativen": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "copy-ai",
+    "naam": "Copy.ai",
+    "slug": "copy-ai",
+    "tagline": "AI copywriting voor marketing en sales teams",
+    "beschrijving": "Copy.ai is een AI-contentplatform gericht op marketing en salesteams. Met 90+ templates genereert het razendsnel advertentieteksten, e-mailsequenties, social media posts en productbeschrijvingen. De Workflows functie automatiseert repetitieve contenttaken volledig. Copy.ai integreert met HubSpot, Salesforce en andere CRM-systemen voor naadloze marketing automation.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 49,
+    "rating": 4.3,
+    "reviews_aantal": 590,
+    "voor_wie": [
+      "marketeer",
+      "copywriter",
+      "sales manager",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "advertentieteksten",
+      "e-mail sequences",
+      "productbeschrijvingen",
+      "social media"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "90+ gespecialiseerde templates",
+      "Workflows voor automatisering",
+      "CRM integraties"
+    ],
+    "tegen": [
+      "Beperkt gratis plan (2000 woorden/maand)",
+      "Pro plan is prijzig",
+      "Output vereist vaak menselijke review"
+    ],
+    "affiliate_url": "https://www.copy.ai",
+    "website": "https://www.copy.ai",
+    "logo": "/logos/copy-ai.svg",
+    "alternativen": [
+      "jasper",
+      "writesonic",
+      "chatgpt"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "writesonic",
+    "naam": "Writesonic",
+    "slug": "writesonic",
+    "tagline": "AI content schrijven met SEO-optimalisatie",
+    "beschrijving": "Writesonic is een AI-schrijfplatform met ingebouwde SEO-tools. Het genereert blogposts, landingspagina's, advertenties en sociale media content. Uniek is de Chatsonic-functie: een ChatGPT-alternatief met realtime internettoegang. De AI Article Writer produceert SEO-geoptimaliseerde artikelen van 1500+ woorden met één klik, inclusief meta descriptions en koppen.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 16,
+    "rating": 4.2,
+    "reviews_aantal": 480,
+    "voor_wie": [
+      "bloggers",
+      "marketeer",
+      "SEO specialist",
+      "copywriter"
+    ],
+    "use_cases": [
+      "blogposts schrijven",
+      "SEO artikelen",
+      "advertentieteksten",
+      "landingspagina's"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Ingebouwde SEO-optimalisatie",
+      "Chatsonic met realtime internet",
+      "Betaalbaar instapplan"
+    ],
+    "tegen": [
+      "Output kwaliteit wisselend",
+      "Interface kan overweldigend zijn",
+      "Minder sterk voor lange artikelen"
+    ],
+    "affiliate_url": "https://writesonic.com",
+    "website": "https://writesonic.com",
+    "logo": "/logos/writesonic.svg",
+    "alternativen": [
+      "jasper",
+      "copy-ai",
+      "surfer-seo"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "rytr",
+    "naam": "Rytr",
+    "slug": "rytr",
+    "tagline": "Betaalbare AI schrijfassistent voor iedereen",
+    "beschrijving": "Rytr is een toegankelijke AI-schrijfassistent met meer dan 40 use cases en 20+ talen. Het richt zich op betaalbaarheid: het gratis plan biedt 10.000 tekens per maand en het betaalde plan start aan slechts €9/maand. Rytr is ideaal voor freelancers en kleine bedrijven die professionele content nodig hebben zonder hoge kosten. Ondersteunt goed Nederlands.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 9,
+    "rating": 4.1,
+    "reviews_aantal": 720,
+    "voor_wie": [
+      "freelancer",
+      "student",
+      "kleine ondernemer",
+      "bloggers"
+    ],
+    "use_cases": [
+      "blogposts",
+      "e-mails",
+      "social media",
+      "productbeschrijvingen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Zeer betaalbaar (€9/maand)",
+      "Goed gratis plan",
+      "Goede Nederlandse taalondersteuning"
+    ],
+    "tegen": [
+      "Minder krachtig dan Jasper of ChatGPT",
+      "Beperkte aanpassingsmogelijkheden",
+      "Geen team functies"
+    ],
+    "affiliate_url": "https://rytr.me",
+    "website": "https://rytr.me",
+    "logo": "/logos/rytr.svg",
+    "alternativen": [
+      "copy-ai",
+      "writesonic",
+      "jasper"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "sudowrite",
+    "naam": "Sudowrite",
+    "slug": "sudowrite",
+    "tagline": "AI schrijfassistent voor fictie en creatief schrijven",
+    "beschrijving": "Sudowrite is speciaal ontworpen voor creatieve schrijvers: romanschrijvers, verhalenvertellers en scenaristen. Het biedt unieke functies zoals Story Bible (je verhaalwereld bijhouden), Shrink Ray (tekst comprimeren), Canvas (visueel verhaal plannen) en Beat Sheet (structuur uitwerken). Sudowrite begrijpt narratieve structuur en helpt schrijvers om hun verhalen te verdiepen en uitbreiden.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 19,
+    "prijs_pro": 29,
+    "rating": 4.4,
+    "reviews_aantal": 310,
+    "voor_wie": [
+      "schrijver",
+      "auteur",
+      "scenarioschrijver",
+      "content creator"
+    ],
+    "use_cases": [
+      "romans schrijven",
+      "verhalen uitbreiden",
+      "personages ontwikkelen",
+      "plot structuur"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Specifiek gebouwd voor fictie en verhalen",
+      "Unieke creatieve tools zoals Story Bible",
+      "Begrijpt narratieve structuur"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Focust alleen op creatief schrijven",
+      "Beperkte Nederlandse taalondersteuning"
+    ],
+    "affiliate_url": "https://www.sudowrite.com",
+    "website": "https://www.sudowrite.com",
+    "logo": "/logos/sudowrite.svg",
+    "alternativen": [
+      "chatgpt",
+      "claude",
+      "jasper"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "wordtune",
+    "naam": "Wordtune",
+    "slug": "wordtune",
+    "tagline": "AI die jouw teksten herschrijft en verbetert",
+    "beschrijving": "Wordtune is een AI-schrijfassistent die bestaande teksten herschrijft, verduidelijkt en verbetert. In tegenstelling tot tools die content genereren, focust Wordtune op het verbeteren van wat je al geschreven hebt. Het biedt suggesties voor herschrijving in meerdere tonen (formeel, casual) en kan zinnen inkorten of uitbreiden. Beschikbaar als Chrome extensie die werkt in Gmail, Google Docs en meer.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 13.99,
+    "rating": 4.2,
+    "reviews_aantal": 560,
+    "voor_wie": [
+      "schrijver",
+      "professional",
+      "student",
+      "marketeer"
+    ],
+    "use_cases": [
+      "teksten herschrijven",
+      "e-mails verbeteren",
+      "toon aanpassen",
+      "samenvatten"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Sterk in bestaande tekst verbeteren",
+      "Werkt overal via Chrome extensie",
+      "Meerdere herschrijfopties tegelijk"
+    ],
+    "tegen": [
+      "Beperkte Nederlandse ondersteuning",
+      "Geen standalone schrijftool",
+      "Gratis plan gelimiteerd"
+    ],
+    "affiliate_url": "https://www.wordtune.com",
+    "website": "https://www.wordtune.com",
+    "logo": "/logos/wordtune.svg",
+    "alternativen": [
+      "grammarly",
+      "chatgpt",
+      "jasper"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "dall-e",
+    "naam": "DALL-E 3",
+    "slug": "dall-e-3",
+    "tagline": "OpenAI's beeldgenerator ingebouwd in ChatGPT",
+    "beschrijving": "DALL-E 3 is OpenAI's nieuwste beeldgeneratiemodel, naadloos geïntegreerd in ChatGPT Plus. Het begrijpt complexe beschrijvingen en genereert fotorealistische beelden, illustraties en conceptart. DALL-E 3 blinkt uit in het volgen van gedetailleerde instructies en het toevoegen van accurate tekst in afbeeldingen. Beschikbaar via ChatGPT Plus en de OpenAI API.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 20,
+    "prijs_pro": 20,
+    "rating": 4.6,
+    "reviews_aantal": 980,
+    "voor_wie": [
+      "designer",
+      "marketeer",
+      "content creator",
+      "developer"
+    ],
+    "use_cases": [
+      "afbeeldingen genereren",
+      "illustraties maken",
+      "product mockups",
+      "social media visuals"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Ingebouwd in ChatGPT Plus",
+      "Uitstekend in tekst in afbeeldingen",
+      "Volgt instructies nauwkeurig"
+    ],
+    "tegen": [
+      "Vereist ChatGPT Plus abonnement",
+      "Minder artistiek dan Midjourney",
+      "Beperkte stijlcontrole"
+    ],
+    "affiliate_url": "https://openai.com/dall-e-3",
+    "website": "https://openai.com/dall-e-3",
+    "logo": "/logos/dall-e-3.svg",
+    "alternativen": [
+      "midjourney",
+      "stable-diffusion",
+      "adobe-firefly"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "stable-diffusion",
+    "naam": "Stable Diffusion",
+    "slug": "stable-diffusion",
+    "tagline": "Open-source beeldgeneratie voor gevorderde gebruikers",
+    "beschrijving": "Stable Diffusion is het populairste open-source beeldgeneratiemodel. Je kunt het gratis lokaal draaien op je eigen computer of via platforms als Stability AI. De enorme community heeft duizenden custom modellen (checkpoints) en LoRA's gebouwd voor elke stijl denkbaar. Via tools als Automatic1111 of ComfyUI heb je volledige controle over elk aspect van de beeldgeneratie.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Gratis",
+    "prijs_vanaf": 0,
+    "prijs_pro": 0,
+    "rating": 4.5,
+    "reviews_aantal": 1650,
+    "voor_wie": [
+      "developer",
+      "designer",
+      "kunstenaar",
+      "tech enthusiast"
+    ],
+    "use_cases": [
+      "beelden genereren",
+      "foto bewerking",
+      "style transfer",
+      "custom modellen trainen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Volledig gratis en open-source",
+      "Maximale controle en aanpasbaarheid",
+      "Enorme community met custom modellen"
+    ],
+    "tegen": [
+      "Vereist technische kennis",
+      "Krachtige GPU nodig voor lokaal gebruik",
+      "Steile leercurve"
+    ],
+    "affiliate_url": "https://stability.ai",
+    "website": "https://stability.ai",
+    "logo": "/logos/stable-diffusion.svg",
+    "alternativen": [
+      "midjourney",
+      "dall-e-3",
+      "adobe-firefly"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "adobe-firefly",
+    "naam": "Adobe Firefly",
+    "slug": "adobe-firefly",
+    "tagline": "AI beeldgeneratie veilig voor commercieel gebruik",
+    "beschrijving": "Adobe Firefly is Adobe's generatieve AI-platform dat naadloos integreert met Photoshop, Illustrator en Express. Het is getraind op gelicentieerde beelden en eigen Adobe Stock content, waardoor het commercieel veilig is te gebruiken. Firefly's Generative Fill in Photoshop is revolutionair: je vult gewoon een selectie in met tekst en AI genereert perfect passende content.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 54.99,
+    "rating": 4.4,
+    "reviews_aantal": 720,
+    "voor_wie": [
+      "designer",
+      "fotograaf",
+      "marketeer",
+      "content creator"
+    ],
+    "use_cases": [
+      "foto bewerking",
+      "achtergrond genereren",
+      "objecten verwijderen",
+      "illustraties"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Commercieel veilig te gebruiken",
+      "Diep geïntegreerd in Adobe suite",
+      "Generative Fill in Photoshop is revolutionair"
+    ],
+    "tegen": [
+      "Adobe Creative Cloud abonnement duur",
+      "Minder artistiek vrijheid dan Midjourney",
+      "Beperkt gratis plan"
+    ],
+    "affiliate_url": "https://firefly.adobe.com",
+    "website": "https://firefly.adobe.com",
+    "logo": "/logos/adobe-firefly.svg",
+    "alternativen": [
+      "midjourney",
+      "dall-e-3",
+      "canva-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "leonardo-ai",
+    "naam": "Leonardo AI",
+    "slug": "leonardo-ai",
+    "tagline": "AI beeldgeneratie voor game assets en conceptart",
+    "beschrijving": "Leonardo AI is een beeldgeneratieplatform gericht op game developers, concept artists en designers. Het biedt een uitgebreide bibliotheek aan gespecialiseerde modellen voor karakterdesign, omgevingskunst, texturen en UI-elementen. Met de Real-Time Canvas kun je live zien hoe je prompt de afbeelding beïnvloedt. Het gratis plan is royaal met 150 tokens per dag.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 12,
+    "rating": 4.5,
+    "reviews_aantal": 860,
+    "voor_wie": [
+      "game developer",
+      "designer",
+      "kunstenaar",
+      "content creator"
+    ],
+    "use_cases": [
+      "game assets",
+      "concept art",
+      "karakterdesign",
+      "texturen maken"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Royaal gratis plan (150 tokens/dag)",
+      "Gespecialiseerde game en concept art modellen",
+      "Real-time canvas generatie"
+    ],
+    "tegen": [
+      "Interface kan complex zijn voor beginners",
+      "Credits raken snel op bij intensief gebruik",
+      "Beperkte taalondersteuning"
+    ],
+    "affiliate_url": "https://app.leonardo.ai",
+    "website": "https://leonardo.ai",
+    "logo": "/logos/leonardo-ai.svg",
+    "alternativen": [
+      "midjourney",
+      "stable-diffusion",
+      "dall-e-3"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "canva-ai",
+    "naam": "Canva AI",
+    "slug": "canva-ai",
+    "tagline": "Design en AI-beelden in één platform",
+    "beschrijving": "Canva heeft AI diep geïntegreerd in zijn populaire designplatform. Magic Studio bundelt AI-functies zoals Magic Design (complete designs genereren), Magic Media (AI beelden en video's), Magic Write (teksten genereren) en Background Remover. Canva AI is ideaal voor niet-designers die professionele visuals nodig hebben zonder technische kennis van beeldgeneratie.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 15.99,
+    "rating": 4.4,
+    "reviews_aantal": 2100,
+    "voor_wie": [
+      "marketeer",
+      "kleine ondernemer",
+      "social media manager",
+      "student"
+    ],
+    "use_cases": [
+      "social media posts",
+      "presentaties",
+      "logo's maken",
+      "marketing materiaal"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Alles-in-één design en AI platform",
+      "Zeer gebruiksvriendelijk",
+      "Uitgebreid gratis plan"
+    ],
+    "tegen": [
+      "AI-functies minder krachtig dan dedicated tools",
+      "Pro vereist voor meeste AI functies",
+      "Minder controle dan Midjourney"
+    ],
+    "affiliate_url": "https://www.canva.com",
+    "website": "https://www.canva.com",
+    "logo": "/logos/canva-ai.svg",
+    "alternativen": [
+      "adobe-firefly",
+      "dall-e-3",
+      "midjourney"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "runway-ml",
+    "naam": "Runway",
+    "slug": "runway",
+    "tagline": "AI video en beeld generatie voor creatievelingen",
+    "beschrijving": "Runway is een toonaangevend creatief AI-platform voor video- en beeldgeneratie. Gen-3 Alpha, hun nieuwste videomodel, genereert verbazingwekkend realistische video's uit tekst of afbeeldingen. Runway biedt ook AI-tools voor video bewerking, achtergrond verwijdering, motion tracking en kleurgrading. Gebruikt door filmmakers, animators en content creators wereldwijd.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 15,
+    "rating": 4.6,
+    "reviews_aantal": 740,
+    "voor_wie": [
+      "filmmakers",
+      "animator",
+      "content creator",
+      "designer"
+    ],
+    "use_cases": [
+      "video genereren",
+      "video bewerken",
+      "achtergrond verwijderen",
+      "special effects"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Toonaangevende AI-videogeneratie",
+      "Complete creatieve toolkit",
+      "Professionele filmbewerking tools"
+    ],
+    "tegen": [
+      "Credits raken snel op",
+      "Hoge resolutie video vereist Pro",
+      "Steile leercurve voor geavanceerde functies"
+    ],
+    "affiliate_url": "https://runwayml.com",
+    "website": "https://runwayml.com",
+    "logo": "/logos/runway.svg",
+    "alternativen": [
+      "synthesia",
+      "heygen",
+      "midjourney"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "synthesia",
+    "naam": "Synthesia",
+    "slug": "synthesia",
+    "tagline": "AI-video's met realistische avatars en presentatoren",
+    "beschrijving": "Synthesia is het marktleidende platform voor het maken van AI-video's met virtuele presentatoren. Je typt een script en kiest een van de 140+ realistische AI-avatars. Synthesia spreekt in meer dan 120 talen, inclusief uitstekend Nederlands. Ideaal voor bedrijven die trainingsvideo's, productdemo's en e-learning content willen maken zonder camera of studio.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 22,
+    "prijs_pro": 67,
+    "rating": 4.5,
+    "reviews_aantal": 1150,
+    "voor_wie": [
+      "HR manager",
+      "marketeer",
+      "trainer",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "trainingsvideo's",
+      "productdemo's",
+      "e-learning",
+      "interne communicatie"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "140+ realistische AI-avatars",
+      "120+ talen inclusief Nederlands",
+      "Geen camera of studio nodig"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Avatars kunnen soms robotachtig ogen",
+      "Prijzig voor kleine bedrijven"
+    ],
+    "affiliate_url": "https://www.synthesia.io",
+    "website": "https://www.synthesia.io",
+    "logo": "/logos/synthesia.svg",
+    "alternativen": [
+      "heygen",
+      "runway",
+      "d-id"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "heygen",
+    "naam": "HeyGen",
+    "slug": "heygen",
+    "tagline": "Jouw eigen AI-video avatar in minuten",
+    "beschrijving": "HeyGen laat je toe om video's te maken met een AI-versie van jezelf of een van de 100+ stock avatars. Met de Video Translation functie vertaal je bestaande video's naar 40+ talen waarbij de lipsync perfect aansluit. HeyGen is populair bij marketeers en content creators voor het maken van gepersonaliseerde video's op schaal.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 29,
+    "rating": 4.4,
+    "reviews_aantal": 830,
+    "voor_wie": [
+      "marketeer",
+      "content creator",
+      "ondernemer",
+      "sales manager"
+    ],
+    "use_cases": [
+      "gepersonaliseerde video's",
+      "video vertalen",
+      "AI avatar maken",
+      "sales video's"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Persoonlijke AI-avatar van jezelf",
+      "Video vertaling met perfecte lipsync",
+      "Gratis plan beschikbaar"
+    ],
+    "tegen": [
+      "Gratis plan gelimiteerd (1 min/maand)",
+      "Hoge kwaliteit avatar vereist Pro",
+      "Soms onnatuurlijke bewegingen"
+    ],
+    "affiliate_url": "https://www.heygen.com",
+    "website": "https://www.heygen.com",
+    "logo": "/logos/heygen.svg",
+    "alternativen": [
+      "synthesia",
+      "d-id",
+      "runway"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "d-id",
+    "naam": "D-ID",
+    "slug": "d-id",
+    "tagline": "Animeer gezichten en foto's met AI",
+    "beschrijving": "D-ID is een AI-platform waarmee je statische foto's en afbeeldingen kunt animeren tot sprekende video's. Upload een foto, voer tekst in of neem audio op, en D-ID genereert een realistische video waarbij het gezicht beweegt en spreekt. Populair voor het maken van gepersonaliseerde video's voor marketing, onderwijs en entertainment.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 5.9,
+    "rating": 4.2,
+    "reviews_aantal": 560,
+    "voor_wie": [
+      "marketeer",
+      "content creator",
+      "ondernemer",
+      "educator"
+    ],
+    "use_cases": [
+      "foto animeren",
+      "sprekende avatar",
+      "gepersonaliseerde video's",
+      "e-learning"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Foto's omzetten naar sprekende video's",
+      "Betaalbaar instapplan",
+      "Eenvoudige interface"
+    ],
+    "tegen": [
+      "Gratis plan zeer beperkt",
+      "Bewegingen soms onnatuurlijk",
+      "Beperkte aanpassingsmogelijkheden"
+    ],
+    "affiliate_url": "https://www.d-id.com",
+    "website": "https://www.d-id.com",
+    "logo": "/logos/d-id.svg",
+    "alternativen": [
+      "heygen",
+      "synthesia",
+      "runway"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "invideo-ai",
+    "naam": "InVideo AI",
+    "slug": "invideo-ai",
+    "tagline": "Van tekst naar professionele video in minuten",
+    "beschrijving": "InVideo AI zet tekst en ideeën om naar professionele video's met stockbeelden, AI-voice en muziek. Je geeft een prompt of plakt een blog/script, en InVideo genereert automatisch een complete video met relevante beelden, voice-over en ondertitels. Ideaal voor YouTubers, marketeers en social media managers die regelmatig videocontent nodig hebben.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 25,
+    "rating": 4.3,
+    "reviews_aantal": 670,
+    "voor_wie": [
+      "YouTuber",
+      "marketeer",
+      "social media manager",
+      "content creator"
+    ],
+    "use_cases": [
+      "YouTube video's maken",
+      "social media video's",
+      "blog naar video",
+      "product video's"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Tekst direct naar video",
+      "Grote bibliotheek stockbeelden",
+      "AI voice-over inbegrepen"
+    ],
+    "tegen": [
+      "Gratis videos hebben watermark",
+      "Minder creatieve controle",
+      "AI-keuze van beelden soms niet relevant"
+    ],
+    "affiliate_url": "https://invideo.io",
+    "website": "https://invideo.io",
+    "logo": "/logos/invideo-ai.svg",
+    "alternativen": [
+      "heygen",
+      "synthesia",
+      "runway"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "cursor",
+    "naam": "Cursor",
+    "slug": "cursor",
+    "tagline": "De AI-first code editor voor snellere development",
+    "beschrijving": "Cursor is een op VS Code gebaseerde code editor die AI diep integreert in je development workflow. Met Cmd+K genereer je code inline, met Cmd+L chat je over je codebase. Cursor kent de volledige context van je project en kan meerdere bestanden tegelijk aanpassen. Het gebruikte model (GPT-4, Claude) is instelbaar. Cursor is de snelst groeiende IDE onder professionele developers.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.8,
+    "reviews_aantal": 1240,
+    "voor_wie": [
+      "developer",
+      "freelancer",
+      "student",
+      "tech startup"
+    ],
+    "use_cases": [
+      "code schrijven",
+      "debugging",
+      "refactoring",
+      "code review"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_fucties": true
+    },
+    "voor": [
+      "Beste AI-code ervaring in een IDE",
+      "Volledig project context bewustzijn",
+      "Instelbaar AI-model"
+    ],
+    "tegen": [
+      "Vereist overstap van huidige editor",
+      "Pro model requests gelimiteerd",
+      "Sommige privacy zorgen"
+    ],
+    "affiliate_url": "https://cursor.sh",
+    "website": "https://cursor.sh",
+    "logo": "/logos/cursor.svg",
+    "alternativen": [
+      "copilot",
+      "codeium",
+      "tabnine"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "codeium",
+    "naam": "Codeium",
+    "slug": "codeium",
+    "tagline": "Gratis AI-codeassistent voor elke developer",
+    "beschrijving": "Codeium is een gratis AI-codecompletie en chatassistent die werkt in meer dan 70 programmeertalen en 40+ editors waaronder VS Code, JetBrains en Vim. Als gratis alternatief voor GitHub Copilot biedt Codeium onbeperkte autocomplete suggesties en een chat interface zonder kosten. Het Codeium Enterprise plan biedt zelfgehoste deployment voor bedrijven met privacyvereisten.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 15,
+    "rating": 4.5,
+    "reviews_aantal": 890,
+    "voor_wie": [
+      "developer",
+      "student",
+      "freelancer"
+    ],
+    "use_cases": [
+      "code autocomplete",
+      "code genereren",
+      "debugging",
+      "code uitleg"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Volledig gratis basisversie",
+      "Werkt in 70+ talen en 40+ editors",
+      "Geen limieten op autocomplete"
+    ],
+    "tegen": [
+      "Minder krachtig dan Copilot of Cursor",
+      "Kleinere community",
+      "Minder enterprise functies"
+    ],
+    "affiliate_url": "https://codeium.com",
+    "website": "https://codeium.com",
+    "logo": "/logos/codeium.svg",
+    "alternativen": [
+      "copilot",
+      "cursor",
+      "tabnine"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "tabnine",
+    "naam": "Tabnine",
+    "slug": "tabnine",
+    "tagline": "AI-codecompletie met privacy-first aanpak",
+    "beschrijving": "Tabnine is een AI-code assistent die al meer dan 5 jaar op de markt is en focust op privacy en veiligheid. Het kan volledig lokaal draaien zonder data naar externe servers te sturen. Tabnine leert van jouw codebase en team-gewoonten voor gepersonaliseerde suggesties. Populair bij bedrijven die strenge data privacy-eisen hebben.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 12,
+    "rating": 4.3,
+    "reviews_aantal": 760,
+    "voor_wie": [
+      "developer",
+      "enterprise",
+      "freelancer"
+    ],
+    "use_cases": [
+      "code autocomplete",
+      "code genereren",
+      "lokale code analyse"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Volledig lokaal draaien mogelijk",
+      "Privacy-first aanpak",
+      "Leert van jouw codebase"
+    ],
+    "tegen": [
+      "Minder krachtig dan nieuwere tools",
+      "Interface verouderd vergeleken met Cursor",
+      "Beperkte chat functionaliteit"
+    ],
+    "affiliate_url": "https://www.tabnine.com",
+    "website": "https://www.tabnine.com",
+    "logo": "/logos/tabnine.svg",
+    "alternativen": [
+      "copilot",
+      "codeium",
+      "cursor"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "replit-ai",
+    "naam": "Replit AI",
+    "slug": "replit-ai",
+    "tagline": "Code, run en deploy met AI in de browser",
+    "beschrijving": "Replit is een browser-gebaseerde IDE met ingebouwde AI die code schrijft, debugt en deployt. Ghostwriter, de AI-assistent, helpt bij code completie, uitleg en generatie. Replit maakt het mogelijk om direct vanuit de browser applicaties te bouwen en te deployen zonder lokale setup. Ideaal voor beginners, studenten en rapid prototyping.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.4,
+    "reviews_aantal": 1020,
+    "voor_wie": [
+      "student",
+      "developer",
+      "freelancer",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "prototyping",
+      "leren programmeren",
+      "web apps bouwen",
+      "samenwerken aan code"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Geen lokale installatie nodig",
+      "Ingebouwde hosting en deployment",
+      "Uitstekend voor samenwerken"
+    ],
+    "tegen": [
+      "Trage performance bij grote projecten",
+      "Beperkte gratis compute",
+      "Minder krachtig dan lokale IDE"
+    ],
+    "affiliate_url": "https://replit.com",
+    "website": "https://replit.com",
+    "logo": "/logos/replit-ai.svg",
+    "alternativen": [
+      "cursor",
+      "copilot",
+      "codeium"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "murf-ai",
+    "naam": "Murf AI",
+    "slug": "murf-ai",
+    "tagline": "Professionele AI voice-overs in 20 talen",
+    "beschrijving": "Murf AI is een text-to-speech platform voor professionele voice-overs met meer dan 120 AI-stemmen in 20 talen. Het biedt een complete studio-omgeving om video's te bewerken, muziek toe te voegen en stemmen aan te passen. Murf is populair bij e-learning ontwikkelaars, marketers en content creators die betaalbare, professionele voice-overs nodig hebben.",
+    "categorie": "AI Audio",
+    "categorie_slug": "ai-audio",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 19,
+    "rating": 4.4,
+    "reviews_aantal": 680,
+    "voor_wie": [
+      "content creator",
+      "educator",
+      "marketeer",
+      "podcaster"
+    ],
+    "use_cases": [
+      "voice-overs maken",
+      "e-learning audio",
+      "video narration",
+      "podcast intro's"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "120+ stemmen in 20 talen",
+      "Ingebouwde video editor",
+      "Goed Nederlands aanbod"
+    ],
+    "tegen": [
+      "Gratis plan heeft watermark",
+      "Minder realistisch dan ElevenLabs",
+      "Beperkte stemkloning"
+    ],
+    "affiliate_url": "https://murf.ai",
+    "website": "https://murf.ai",
+    "logo": "/logos/murf-ai.svg",
+    "alternativen": [
+      "elevenlabs",
+      "play-ht",
+      "speechify"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "otter-ai",
+    "naam": "Otter.ai",
+    "slug": "otter-ai",
+    "tagline": "AI-transcriptie en samenvatting van vergaderingen",
+    "beschrijving": "Otter.ai is een AI-transcriptieservice die vergaderingen, interviews en gesprekken automatisch omzet naar tekst. Het integreert met Zoom, Google Meet en Microsoft Teams voor realtime transcriptie. OtterPilot, de AI-assistent, neemt zelf deel aan vergaderingen, maakt aantekeningen en genereert samenvattingen automatisch. Ideaal voor teams die geen vergaderingen willen missen.",
+    "categorie": "AI Audio",
+    "categorie_slug": "ai-audio",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 10,
+    "rating": 4.4,
+    "reviews_aantal": 1240,
+    "voor_wie": [
+      "manager",
+      "journalist",
+      "student",
+      "consultant"
+    ],
+    "use_cases": [
+      "vergadering transcriberen",
+      "interview uitschrijven",
+      "aantekeningen maken",
+      "samenvatten"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Realtime transcriptie in vergaderingen",
+      "Integreert met Zoom en Teams",
+      "OtterPilot neemt zelf deel"
+    ],
+    "tegen": [
+      "Beperkte Nederlandse taalondersteuning",
+      "Gratis plan gelimiteerd (300 min/maand)",
+      "Privacy zorgen bij gevoelige gesprekken"
+    ],
+    "affiliate_url": "https://otter.ai",
+    "website": "https://otter.ai",
+    "logo": "/logos/otter-ai.svg",
+    "alternativen": [
+      "fireflies-ai",
+      "fathom",
+      "elevenlabs"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "suno-ai",
+    "naam": "Suno AI",
+    "slug": "suno-ai",
+    "tagline": "Genereer complete nummers met AI in seconden",
+    "beschrijving": "Suno AI is een revolutionair muziekgeneratieplatform dat complete nummers genereert inclusief zang, instrumenten en productie. Je geeft een tekststijlbeschrijving (genre, mood, thema) en Suno genereert een volledig afgewerkt muzieknummer van 1-4 minuten. Ideaal voor content creators die achtergrondmuziek, jingles of unieke nummers nodig hebben.",
+    "categorie": "AI Audio",
+    "categorie_slug": "ai-audio",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 10,
+    "rating": 4.5,
+    "reviews_aantal": 920,
+    "voor_wie": [
+      "content creator",
+      "marketeer",
+      "muzikant",
+      "filmmaker"
+    ],
+    "use_cases": [
+      "muziek genereren",
+      "jingles maken",
+      "achtergrondmuziek",
+      "songteksten"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Complete nummers inclusief zang genereren",
+      "Enorme stijlvariatie",
+      "Gratis plan beschikbaar"
+    ],
+    "tegen": [
+      "Auteursrecht onduidelijkheden",
+      "Commercieel gebruik vereist Pro",
+      "Beperkte aanpassing na generatie"
+    ],
+    "affiliate_url": "https://suno.ai",
+    "website": "https://suno.ai",
+    "logo": "/logos/suno-ai.svg",
+    "alternativen": [
+      "elevenlabs",
+      "murf-ai",
+      "udio"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "surfer-seo",
+    "naam": "Surfer SEO",
+    "slug": "surfer-seo",
+    "tagline": "Data-gedreven SEO content optimalisatie",
+    "beschrijving": "Surfer SEO is een content optimalisatietool die analyseert wat de topresultaten in Google gemeen hebben en je content daar naartoe optimaliseert. De Content Editor geeft realtime SEO-score terwijl je schrijft. Surfer's AI-schrijver genereert SEO-geoptimaliseerde artikelen op basis van SERP-analyse. Integreert met Google Docs, WordPress en Jasper voor naadloze workflow.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 69,
+    "prijs_pro": 149,
+    "rating": 4.6,
+    "reviews_aantal": 1340,
+    "voor_wie": [
+      "SEO specialist",
+      "content marketeer",
+      "bloggers",
+      "copywriter"
+    ],
+    "use_cases": [
+      "content optimaliseren",
+      "SEO artikelen schrijven",
+      "keyword research",
+      "SERP analyse"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Beste content SEO-analyse op de markt",
+      "Realtime optimalisatie tijdens schrijven",
+      "Integreert met Google Docs en WordPress"
+    ],
+    "tegen": [
+      "Duur (€69+/maand)",
+      "Geen gratis plan",
+      "Focust alleen op on-page SEO"
+    ],
+    "affiliate_url": "https://surferseo.com",
+    "website": "https://surferseo.com",
+    "logo": "/logos/surfer-seo.svg",
+    "alternativen": [
+      "clearscope",
+      "semrush-ai",
+      "frase"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "semrush-ai",
+    "naam": "Semrush AI",
+    "slug": "semrush-ai",
+    "tagline": "Complete AI-gedreven SEO en marketing suite",
+    "beschrijving": "Semrush is de meest complete SEO-tool die AI integreert in keyword research, concurrentieanalyse, contentcreatie en technische SEO. ContentShake AI genereert SEO-artikelen en SEO Writing Assistant optimaliseert bestaande content. De AI-functies zijn geïntegreerd in Semrush's enorme database van 26 miljard keywords en 43 biljoen backlinks.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 117.33,
+    "prijs_pro": 208.33,
+    "rating": 4.6,
+    "reviews_aantal": 2890,
+    "voor_wie": [
+      "SEO specialist",
+      "digital marketeer",
+      "ondernemer",
+      "agency"
+    ],
+    "use_cases": [
+      "keyword research",
+      "concurrentieanalyse",
+      "content schrijven",
+      "backlink analyse"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Meest complete SEO-suite beschikbaar",
+      "Enorme keyword database",
+      "AI geïntegreerd in alle tools"
+    ],
+    "tegen": [
+      "Zeer duur voor kleine bedrijven",
+      "Overweldigend voor beginners",
+      "Geen volledig gratis plan"
+    ],
+    "affiliate_url": "https://www.semrush.com",
+    "website": "https://www.semrush.com",
+    "logo": "/logos/semrush-ai.svg",
+    "alternativen": [
+      "ahrefs",
+      "surfer-seo",
+      "clearscope"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "frase",
+    "naam": "Frase",
+    "slug": "frase",
+    "tagline": "AI content research en SEO-optimalisatie in één",
+    "beschrijving": "Frase combineert content research, SEO-optimalisatie en AI-schrijven in één platform. Het analyseert automatisch de top SERP-resultaten, identificeert de topics en vragen die je artikel moet beantwoorden, en helpt je bij het schrijven van een volledig geoptimaliseerd artikel. Frase is populair bij SEO-teams die hun content workflow willen stroomlijnen.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 15,
+    "prijs_pro": 45,
+    "rating": 4.4,
+    "reviews_aantal": 670,
+    "voor_wie": [
+      "SEO specialist",
+      "content marketeer",
+      "bloggers"
+    ],
+    "use_cases": [
+      "content research",
+      "SEO optimalisatie",
+      "artikelen schrijven",
+      "content briefs"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "SERP analyse geïntegreerd in editor",
+      "Betaalbaar instapplan (€15/maand)",
+      "Content briefs in één klik"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Beperkte AI-schrijfcapaciteit",
+      "Soms verouderde SERP data"
+    ],
+    "affiliate_url": "https://www.frase.io",
+    "website": "https://www.frase.io",
+    "logo": "/logos/frase.svg",
+    "alternativen": [
+      "surfer-seo",
+      "clearscope",
+      "semrush-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "clearscope",
+    "naam": "Clearscope",
+    "slug": "clearscope",
+    "tagline": "AI content-optimalisatie voor enterprise SEO",
+    "beschrijving": "Clearscope is een premium content-optimalisatieplatform gericht op enterprise SEO-teams. Het analyseert topresultaten voor een keyword en geeft gedetailleerde aanbevelingen voor topics, vragen en termen om op te nemen. De Google Docs add-on en WordPress plugin maken workflow-integratie eenvoudig. Clearscope is de tool van keuze bij grote merken en agencies.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 170,
+    "prijs_pro": 350,
+    "rating": 4.5,
+    "reviews_aantal": 430,
+    "voor_wie": [
+      "SEO specialist",
+      "content director",
+      "agency",
+      "enterprise"
+    ],
+    "use_cases": [
+      "content optimaliseren",
+      "SEO audits",
+      "team workflows",
+      "content briefs"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Meest accurate content analyse",
+      "Uitstekende Google Docs integratie",
+      "Enterprise-grade rapportage"
+    ],
+    "tegen": [
+      "Zeer duur (€170+/maand)",
+      "Overkill voor kleine sites",
+      "Geen AI-schrijffunctie"
+    ],
+    "affiliate_url": "https://www.clearscope.io",
+    "website": "https://www.clearscope.io",
+    "logo": "/logos/clearscope.svg",
+    "alternativen": [
+      "surfer-seo",
+      "frase",
+      "semrush-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "aiseo",
+    "naam": "AISEO",
+    "slug": "aiseo",
+    "tagline": "AI artikelen schrijven die ranken in Google",
+    "beschrijving": "AISEO is een AI-schrijftool met focus op SEO-content. Het biedt een Article Writer die lange, geoptimaliseerde artikelen genereert op basis van keyword research. AISEO's Bypass AI Detection functie maakt content menselijker zodat het de AI-detectors van Google passeert. Daarnaast biedt het Paraphrase, Summarize en Content Score tools.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 15,
+    "rating": 4.1,
+    "reviews_aantal": 390,
+    "voor_wie": [
+      "bloggers",
+      "SEO specialist",
+      "content creator",
+      "affiliate marketeer"
+    ],
+    "use_cases": [
+      "SEO artikelen schrijven",
+      "AI content humanizen",
+      "parafraseren",
+      "samenvatten"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Betaalbaar instapplan",
+      "AI-detection bypass functie",
+      "Goed voor affiliate content"
+    ],
+    "tegen": [
+      "Output vereist menselijke review",
+      "Minder geavanceerd dan Surfer",
+      "Beperkte SEO-analyse"
+    ],
+    "affiliate_url": "https://aiseo.ai",
+    "website": "https://aiseo.ai",
+    "logo": "/logos/aiseo.svg",
+    "alternativen": [
+      "surfer-seo",
+      "frase",
+      "writesonic"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "rankmath-ai",
+    "naam": "Rank Math AI",
+    "slug": "rank-math-ai",
+    "tagline": "WordPress SEO plugin met ingebouwde AI",
+    "beschrijving": "Rank Math is de populairste WordPress SEO plugin met ingebouwde AI-functies. Content AI analyseert je content, geeft SEO-aanbevelingen en genereert meta descriptions, titels en FAQ's automatisch. Met 15+ AI-modules is Rank Math een alles-in-één SEO-oplossing voor WordPress gebruikers. Content AI biedt 750 gratis credits per maand.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 6.99,
+    "rating": 4.6,
+    "reviews_aantal": 3400,
+    "voor_wie": [
+      "WordPress developer",
+      "bloggers",
+      "ondernemer",
+      "SEO specialist"
+    ],
+    "use_cases": [
+      "WordPress SEO",
+      "meta tags genereren",
+      "content analyse",
+      "schema markup"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Beste WordPress SEO plugin",
+      "Gratis met AI-credits inbegrepen",
+      "15+ AI-modules"
+    ],
+    "tegen": [
+      "Alleen voor WordPress",
+      "AI credits gelimiteerd in gratis plan",
+      "Kan conflicteren met andere plugins"
+    ],
+    "affiliate_url": "https://rankmath.com",
+    "website": "https://rankmath.com",
+    "logo": "/logos/rank-math-ai.svg",
+    "alternativen": [
+      "surfer-seo",
+      "semrush-ai",
+      "yoast-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "intercom-ai",
+    "naam": "Intercom AI (Fin)",
+    "slug": "intercom-ai",
+    "tagline": "AI customer service agent die 50%+ vragen oplost",
+    "beschrijving": "Intercom's Fin is een AI-klantenserviceagent die zelfstandig klantvragen beantwoordt op basis van je kennisbank. Fin lost gemiddeld 50% van de supportvragen op zonder menselijke tussenkomst, waardoor teams zich kunnen focussen op complexe kwesties. Het integreert naadloos in Intercom's complete klantenserviceplatform met live chat, helpdesk en analytics.",
+    "categorie": "AI Klantenservice",
+    "categorie_slug": "ai-klantenservice",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 74,
+    "prijs_pro": 169,
+    "rating": 4.5,
+    "reviews_aantal": 980,
+    "voor_wie": [
+      "klantenservice manager",
+      "SaaS bedrijf",
+      "e-commerce",
+      "tech startup"
+    ],
+    "use_cases": [
+      "klantvragen automatiseren",
+      "live chat",
+      "helpdesk",
+      "onboarding"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Lost 50%+ vragen automatisch op",
+      "Complete klantenservice suite",
+      "Uitstekende integraties"
+    ],
+    "tegen": [
+      "Duur voor kleine bedrijven",
+      "Vereist goede kennisbank",
+      "Complexe setup"
+    ],
+    "affiliate_url": "https://www.intercom.com",
+    "website": "https://www.intercom.com",
+    "logo": "/logos/intercom-ai.svg",
+    "alternativen": [
+      "tidio",
+      "freshdesk-ai",
+      "zendesk-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "tidio",
+    "naam": "Tidio",
+    "slug": "tidio",
+    "tagline": "AI chatbot en live chat voor webshops",
+    "beschrijving": "Tidio is een betaalbaar klantenserviceplatform met AI-chatbot (Lyro) speciaal voor e-commerce en kleine bedrijven. Lyro beantwoordt automatisch klantvragen over bestellingen, producten en beleid. Tidio integreert met Shopify, WooCommerce en Wix voor e-commerce automatisering. Het royale gratis plan maakt het toegankelijk voor kleine webshops.",
+    "categorie": "AI Klantenservice",
+    "categorie_slug": "ai-klantenservice",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 19,
+    "rating": 4.4,
+    "reviews_aantal": 1560,
+    "voor_wie": [
+      "e-commerce",
+      "kleine ondernemer",
+      "webshop eigenaar",
+      "freelancer"
+    ],
+    "use_cases": [
+      "klantvragen beantwoorden",
+      "bestellingen opvolgen",
+      "leads genereren",
+      "live chat"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Uitstekend gratis plan",
+      "Specifiek voor e-commerce",
+      "Eenvoudige installatie"
+    ],
+    "tegen": [
+      "Lyro AI gelimiteerd in gratis plan",
+      "Minder krachtig dan Intercom",
+      "Beperkte rapportage"
+    ],
+    "affiliate_url": "https://www.tidio.com",
+    "website": "https://www.tidio.com",
+    "logo": "/logos/tidio.svg",
+    "alternativen": [
+      "intercom-ai",
+      "freshdesk-ai",
+      "crisp"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "freshdesk-ai",
+    "naam": "Freshdesk AI (Freddy)",
+    "slug": "freshdesk-ai",
+    "tagline": "AI klantenservice voor groeiende bedrijven",
+    "beschrijving": "Freshdesk met Freddy AI is een complete helpdeskoplossing voor groeiende bedrijven. Freddy AI beantwoordt automatisch tickets, suggereert antwoorden aan agenten en analyseert klantsentiment. Met native integraties voor WhatsApp, e-mail, telefoon en social media biedt Freshdesk een omnichannel klantenservice ervaring. Betaalbaarder dan Zendesk voor middelgrote teams.",
+    "categorie": "AI Klantenservice",
+    "categorie_slug": "ai-klantenservice",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 15,
+    "rating": 4.4,
+    "reviews_aantal": 2100,
+    "voor_wie": [
+      "klantenservice manager",
+      "KMO",
+      "e-commerce",
+      "SaaS bedrijf"
+    ],
+    "use_cases": [
+      "ticket management",
+      "klantvragen automatiseren",
+      "omnichannel support",
+      "rapportage"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_fucties": true
+    },
+    "voor": [
+      "Uitgebreid gratis plan (max 10 agenten)",
+      "Betaalbaarder dan Zendesk",
+      "Freddy AI geïntegreerd"
+    ],
+    "tegen": [
+      "AI functies vereisen duurder plan",
+      "Interface minder modern dan Intercom",
+      "Beperkte aanpassingsmogelijkheden gratis"
+    ],
+    "affiliate_url": "https://freshdesk.com",
+    "website": "https://freshdesk.com",
+    "logo": "/logos/freshdesk-ai.svg",
+    "alternativen": [
+      "intercom-ai",
+      "tidio",
+      "zendesk-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "julius-ai",
+    "naam": "Julius AI",
+    "slug": "julius-ai",
+    "tagline": "Chat met je data en maak grafieken met AI",
+    "beschrijving": "Julius AI laat je toe om met je data te chatten in natuurlijke taal. Upload een Excel of CSV bestand en stel vragen als 'Wat zijn de top 5 producten?'. Julius genereert automatisch grafieken, voert statistische analyses uit en schrijft Python code om je analyse te reproduceren. Ideaal voor data-analisten en business professionals zonder uitgebreide programmeerkennis.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.5,
+    "reviews_aantal": 480,
+    "voor_wie": [
+      "data analist",
+      "business analist",
+      "marketeer",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "data analyseren",
+      "grafieken maken",
+      "Excel analyseren",
+      "statistieken berekenen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Praat met data in gewone taal",
+      "Genereert automatisch Python code",
+      "Uitstekend voor Excel analyse"
+    ],
+    "tegen": [
+      "Beperkt gratis plan",
+      "Minder geavanceerd voor complexe analyses",
+      "Geen integratie met databases"
+    ],
+    "affiliate_url": "https://julius.ai",
+    "website": "https://julius.ai",
+    "logo": "/logos/julius-ai.svg",
+    "alternativen": [
+      "chatgpt",
+      "tableau-ai",
+      "polymer"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "tableau-ai",
+    "naam": "Tableau AI",
+    "slug": "tableau-ai",
+    "tagline": "Enterprise data visualisatie met Einstein AI",
+    "beschrijving": "Tableau met Einstein AI is het marktleidende enterprise data visualisatieplatform. Einstein Copilot in Tableau laat je dashboards bouwen en inzichten vragen via natuurlijke taal. Tableau verwerkt miljoenen rijen data en maakt complexe visualisaties toegankelijk voor niet-technische gebruikers. Diep geïntegreerd met Salesforce voor complete CRM analytics.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 75,
+    "prijs_pro": 140,
+    "rating": 4.5,
+    "reviews_aantal": 3200,
+    "voor_wie": [
+      "data analist",
+      "business intelligence",
+      "enterprise",
+      "manager"
+    ],
+    "use_cases": [
+      "dashboards bouwen",
+      "data visualisatie",
+      "business intelligence",
+      "rapportage"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Industriestandaard voor BI",
+      "Verwerkt enorme datasets",
+      "Uitstekende visualisatiemogelijkheden"
+    ],
+    "tegen": [
+      "Zeer duur",
+      "Steile leercurve",
+      "Overkill voor kleine bedrijven"
+    ],
+    "affiliate_url": "https://www.tableau.com",
+    "website": "https://www.tableau.com",
+    "logo": "/logos/tableau-ai.svg",
+    "alternativen": [
+      "power-bi",
+      "julius-ai",
+      "polymer"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "power-bi",
+    "naam": "Power BI",
+    "slug": "power-bi",
+    "tagline": "Microsoft's AI-gedreven business intelligence tool",
+    "beschrijving": "Power BI van Microsoft is een business intelligence platform met diep geïntegreerde AI-functies. Quick Insights en Q&A laten je in natuurlijke taal vragen stellen aan je data. Power BI integreert naadloos met Excel, Azure en de volledige Microsoft 365 suite. De gratis desktop versie maakt het toegankelijk, terwijl Pro en Premium enterprise-functies bieden.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 9.99,
+    "rating": 4.4,
+    "reviews_aantal": 4100,
+    "voor_wie": [
+      "data analist",
+      "business analist",
+      "manager",
+      "controller"
+    ],
+    "use_cases": [
+      "dashboards bouwen",
+      "Excel integratie",
+      "business rapportage",
+      "KPI tracking"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Diep geïntegreerd met Microsoft 365",
+      "Betaalbaar Pro plan (€9.99/maand)",
+      "Enorme community en templates"
+    ],
+    "tegen": [
+      "Desktop app vereist Windows",
+      "Minder gebruiksvriendelijk dan Tableau",
+      "AI functies beperkt in gratis versie"
+    ],
+    "affiliate_url": "https://powerbi.microsoft.com",
+    "website": "https://powerbi.microsoft.com",
+    "logo": "/logos/power-bi.svg",
+    "alternativen": [
+      "tableau-ai",
+      "julius-ai",
+      "looker-studio"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "ClickUp-ai",
+    "naam": "ClickUp AI",
+    "slug": "clickup-ai",
+    "tagline": "AI projectmanagement voor teams van elke grootte",
+    "beschrijving": "ClickUp is een alles-in-één projectmanagement platform met ingebouwde AI. ClickUp Brain schrijft automatisch taakbeschrijvingen, samenvattingen en projectupdates. De AI kan vragen beantwoorden over je taken, deadlines en teamcapaciteit. ClickUp vervangt meerdere tools (Asana, Trello, Notion, Slack) in één platform.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 7,
+    "rating": 4.3,
+    "reviews_aantal": 2800,
+    "voor_wie": [
+      "projectmanager",
+      "team lead",
+      "ondernemer",
+      "developer"
+    ],
+    "use_cases": [
+      "projectmanagement",
+      "taken beheren",
+      "teamcommunicatie",
+      "rapportage"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Alles-in-één werkruimte",
+      "Uitgebreid gratis plan",
+      "Hoog aanpasbaar"
+    ],
+    "tegen": [
+      "Overweldigend voor kleine teams",
+      "AI vereist betaald plan",
+      "Steile leercurve"
+    ],
+    "affiliate_url": "https://clickup.com",
+    "website": "https://clickup.com",
+    "logo": "/logos/clickup-ai.svg",
+    "alternativen": [
+      "notion-ai",
+      "asana-ai",
+      "monday-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "asana-ai",
+    "naam": "Asana AI",
+    "slug": "asana-ai",
+    "tagline": "AI-gedreven workflowautomatisering voor teams",
+    "beschrijving": "Asana heeft AI geïntegreerd als Asana Intelligence in zijn populaire projectmanagement tool. AI-functies omvatten automatische prioritering van taken, slimme deadlines, workload balancing en project risico-detectie. Asana AI schrijft ook projectbriefings en statusupdates automatisch. Geliefd bij marketing en operations teams voor zijn eenvoud.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 10.99,
+    "rating": 4.4,
+    "reviews_aantal": 3100,
+    "voor_wie": [
+      "projectmanager",
+      "marketeer",
+      "operations manager",
+      "team lead"
+    ],
+    "use_cases": [
+      "projectplanning",
+      "taken toewijzen",
+      "workflows automatiseren",
+      "deadlines bewaken"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Gebruiksvriendelijkste projecttool",
+      "Sterke workflow automatisering",
+      "Uitstekende integraties (200+)"
+    ],
+    "tegen": [
+      "AI functies vereisen Premium plan",
+      "Duurder dan ClickUp",
+      "Beperkte aanpassingsmogelijkheden"
+    ],
+    "affiliate_url": "https://asana.com",
+    "website": "https://asana.com",
+    "logo": "/logos/asana-ai.svg",
+    "alternativen": [
+      "clickup-ai",
+      "notion-ai",
+      "monday-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "monday-ai",
+    "naam": "Monday AI",
+    "slug": "monday-ai",
+    "tagline": "Visueel projectmanagement met AI-automatisering",
+    "beschrijving": "Monday.com heeft AI-functies geïntegreerd die workflows automatiseren, updates samenvatten en taken genereren. Monday AI helpt bij het schrijven van taakbeschrijvingen, het samenvatten van projectupdates en het detecteren van bottlenecks. Het visuele kanban-bord maakt Monday geliefd bij creatieve en marketing teams.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 9,
+    "prijs_pro": 16,
+    "rating": 4.4,
+    "reviews_aantal": 2400,
+    "voor_wie": [
+      "projectmanager",
+      "marketeer",
+      "designer",
+      "sales manager"
+    ],
+    "use_cases": [
+      "projectmanagement",
+      "campagne planning",
+      "CRM",
+      "sprint planning"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Meest visuele projecttool",
+      "Flexibel aanpasbaar per use case",
+      "Sterke integraties"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "AI functies beperkt",
+      "Kan duur worden met grote teams"
+    ],
+    "affiliate_url": "https://monday.com",
+    "website": "https://monday.com",
+    "logo": "/logos/monday-ai.svg",
+    "alternativen": [
+      "asana-ai",
+      "clickup-ai",
+      "notion-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "fireflies-ai",
+    "naam": "Fireflies AI",
+    "slug": "fireflies-ai",
+    "tagline": "AI notulist die automatisch vergaderingen samenvat",
+    "beschrijving": "Fireflies AI is een AI-notulistenservice die automatisch deelneemt aan je online vergaderingen, alles transcribeert en een gestructureerde samenvatting maakt. Het herkent sprekers, identificeert actiepunten en integreert de samenvattingen rechtstreeks in CRM-systemen zoals Salesforce en HubSpot. Beschikbaar voor Zoom, Teams, Meet en meer.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 10,
+    "rating": 4.5,
+    "reviews_aantal": 1340,
+    "voor_wie": [
+      "manager",
+      "sales manager",
+      "consultant",
+      "recruiter"
+    ],
+    "use_cases": [
+      "vergaderingen transcriberen",
+      "actiepunten extraheren",
+      "CRM updaten",
+      "sales calls analyseren"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Neemt automatisch deel aan vergaderingen",
+      "CRM integratie voor sales teams",
+      "Spreker herkenning"
+    ],
+    "tegen": [
+      "Gratis plan gelimiteerd (800 min/jaar)",
+      "Privacy zorgen bij gevoelige calls",
+      "Soms onjuiste transcriptie"
+    ],
+    "affiliate_url": "https://fireflies.ai",
+    "website": "https://fireflies.ai",
+    "logo": "/logos/fireflies-ai.svg",
+    "alternativen": [
+      "otter-ai",
+      "fathom",
+      "notion-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "zapier-ai",
+    "naam": "Zapier AI",
+    "slug": "zapier-ai",
+    "tagline": "AI-gedreven automatisering tussen 6000+ apps",
+    "beschrijving": "Zapier heeft AI geïntegreerd in zijn automatiseringsplatform om workflows te bouwen via natuurlijke taal. Zeg wat je wilt automatiseren en Zapier AI bouwt de zap voor je. AI Chatbots van Zapier laten toe om custom AI-assistenten te bouwen verbonden met 6000+ apps. Ideaal voor kleine bedrijven die repetitieve taken willen automatiseren zonder code.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 19.99,
+    "rating": 4.5,
+    "reviews_aantal": 5600,
+    "voor_wie": [
+      "ondernemer",
+      "marketeer",
+      "operations manager",
+      "kleine ondernemer"
+    ],
+    "use_cases": [
+      "workflows automatiseren",
+      "apps verbinden",
+      "data synchroniseren",
+      "AI chatbots bouwen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "6000+ app integraties",
+      "AI bouwt workflows via taal",
+      "Geen code nodig"
+    ],
+    "tegen": [
+      "Gratis plan beperkt (100 taken/maand)",
+      "Kan duur worden bij hoog volume",
+      "Complexe workflows zijn technisch"
+    ],
+    "affiliate_url": "https://zapier.com",
+    "website": "https://zapier.com",
+    "logo": "/logos/zapier-ai.svg",
+    "alternativen": [
+      "make-ai",
+      "clickup-ai",
+      "notion-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "you-com",
+    "naam": "You.com",
+    "slug": "you-com",
+    "tagline": "AI zoekmachine die je privacy respecteert",
+    "beschrijving": "You.com is een AI-zoekmachine die zoekresultaten combineert met AI-gegenereerde antwoorden. YouChat, de ingebouwde chatbot, geeft antwoorden met bronvermelding en heeft realtime internettoegang. You.com biedt YouCode voor ontwikkelaars en YouWrite voor contentmakers. Privacy is een kernwaarde: je zoekgeschiedenis wordt niet gevolgd.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 15,
+    "rating": 4.1,
+    "reviews_aantal": 290,
+    "voor_wie": [
+      "onderzoeker",
+      "developer",
+      "privacy-bewuste gebruiker",
+      "student"
+    ],
+    "use_cases": [
+      "zoeken",
+      "antwoorden vinden",
+      "code genereren",
+      "tekst schrijven"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Privacy-first aanpak",
+      "Realtime zoekresultaten",
+      "Gratis beschikbaar"
+    ],
+    "tegen": [
+      "Minder nauwkeurig dan ChatGPT",
+      "Kleinere community",
+      "Minder bekende tool"
+    ],
+    "affiliate_url": "https://you.com",
+    "website": "https://you.com",
+    "logo": "/logos/you-com.svg",
+    "alternativen": [
+      "perplexity",
+      "gemini",
+      "chatgpt"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "pi-ai",
+    "naam": "Pi",
+    "slug": "pi-ai",
+    "tagline": "Je persoonlijke AI-coach voor gesprekken",
+    "beschrijving": "Pi van Inflection AI is een conversationele AI die zich richt op empathische, persoonlijke gesprekken. In tegenstelling tot taakgerichte AI's is Pi ontworpen voor coaching, reflectie en betekenisvolle dialogen. Pi onthoudt je gesprekken en bouwt een persoonlijk profiel op om je beter te begrijpen. Beschikbaar op web, iOS en Android.",
+    "categorie": "AI Assistent",
+    "categorie_slug": "ai-assistent",
+    "prijs_model": "Gratis",
+    "prijs_vanaf": 0,
+    "prijs_pro": 0,
+    "rating": 4.3,
+    "reviews_aantal": 380,
+    "voor_wie": [
+      "student",
+      "professional",
+      "iedereen"
+    ],
+    "use_cases": [
+      "persoonlijk coaching",
+      "brainstormen",
+      "reflectie",
+      "emotionele ondersteuning"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Volledig gratis",
+      "Empathische gesprekstijl",
+      "Onthoudt je gesprekken"
+    ],
+    "tegen": [
+      "Minder geschikt voor zakelijke taken",
+      "Geen API",
+      "Minder krachtig voor complexe analyse"
+    ],
+    "affiliate_url": "https://pi.ai",
+    "website": "https://pi.ai",
+    "logo": "/logos/pi-ai.svg",
+    "alternativen": [
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "anyword",
+    "naam": "Anyword",
+    "slug": "anyword",
+    "tagline": "AI copywriting met voorspelbare conversieoptimalisatie",
+    "beschrijving": "Anyword is een AI-copywritingtool die niet alleen tekst genereert maar ook de verwachte conversieratio voorspelt. De Predictive Performance Score laat zien welke versie van een tekst naar verwachting het beste converteert. Ideaal voor marketeers die data-gedreven beslissingen willen nemen over hun advertentieteksten, landingspagina's en e-mails.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 39,
+    "prijs_pro": 79,
+    "rating": 4.3,
+    "reviews_aantal": 430,
+    "voor_wie": [
+      "marketeer",
+      "copywriter",
+      "performance marketeer",
+      "e-commerce"
+    ],
+    "use_cases": [
+      "advertentieteksten",
+      "landingspagina's",
+      "e-mail marketing",
+      "social media"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Unieke conversiepredictie score",
+      "Data-gedreven copywriting",
+      "A/B test variaties"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Prijziger dan Jasper",
+      "Focust op marketing copy"
+    ],
+    "affiliate_url": "https://anyword.com",
+    "website": "https://anyword.com",
+    "logo": "/logos/anyword.svg",
+    "alternativen": [
+      "jasper",
+      "copy-ai",
+      "writesonic"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "hyperwrite",
+    "naam": "HyperWrite",
+    "slug": "hyperwrite",
+    "tagline": "Persoonlijke AI-schrijfassistent die jou kent",
+    "beschrijving": "HyperWrite is een AI-schrijfassistent die je schrijfstijl leert kennen en aanpast aan jouw manier van communiceren. De TypeAhead functie voltooit je zinnen terwijl je typt. HyperWrite's AI Agent kan autonome browsertaken uitvoeren namens je. Beschikbaar als Chrome extensie die werkt in vrijwel elke webapplicatie.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 19.99,
+    "rating": 4.2,
+    "reviews_aantal": 340,
+    "voor_wie": [
+      "schrijver",
+      "professional",
+      "student",
+      "content creator"
+    ],
+    "use_cases": [
+      "e-mails schrijven",
+      "documenten opstellen",
+      "webbrowsing automatiseren",
+      "tekst aanvullen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Leert jouw persoonlijke schrijfstijl",
+      "Werkt overal via Chrome extensie",
+      "AI Agent voor browsertaken"
+    ],
+    "tegen": [
+      "Minder krachtig dan ChatGPT",
+      "Beperkt gratis plan",
+      "Weinig template-opties"
+    ],
+    "affiliate_url": "https://www.hyperwriteai.com",
+    "website": "https://www.hyperwriteai.com",
+    "logo": "/logos/hyperwrite.svg",
+    "alternativen": [
+      "grammarly",
+      "wordtune",
+      "jasper"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "ideogram",
+    "naam": "Ideogram AI",
+    "slug": "ideogram-ai",
+    "tagline": "Beeldgeneratie met accurate tekst in afbeeldingen",
+    "beschrijving": "Ideogram is een beeldgeneratietool die uitblinkt in het nauwkeurig weergeven van tekst in afbeeldingen — iets waar andere tools moeite mee hebben. Ideaal voor het maken van logo's, posters, banners en social media afbeeldingen met tekst. Ideogram 2.0 biedt fotorealistische kwaliteit en sterke typografie-controle.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 8,
+    "rating": 4.5,
+    "reviews_aantal": 620,
+    "voor_wie": [
+      "designer",
+      "marketeer",
+      "content creator",
+      "kleine ondernemer"
+    ],
+    "use_cases": [
+      "logo's maken",
+      "posters ontwerpen",
+      "sociale media visuals",
+      "banners met tekst"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Beste tekst-in-afbeelding accuraatheid",
+      "Gratis plan beschikbaar",
+      "Betaalbaar Pro plan"
+    ],
+    "tegen": [
+      "Minder artistiek dan Midjourney",
+      "Beperkte stijlcontrole",
+      "Nieuwe speler op de markt"
+    ],
+    "affiliate_url": "https://ideogram.ai",
+    "website": "https://ideogram.ai",
+    "logo": "/logos/ideogram-ai.svg",
+    "alternativen": [
+      "dall-e-3",
+      "midjourney",
+      "adobe-firefly"
+    ],
+    "featured": false,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "flux-ai",
+    "naam": "Flux AI",
+    "slug": "flux-ai",
+    "tagline": "State-of-the-art open-source beeldgeneratie",
+    "beschrijving": "Flux van Black Forest Labs is een van de meest geavanceerde open-source beeldgeneratiemodellen, ontwikkeld door ex-Stable Diffusion makers. Flux.1 Pro levert fotorealistische beelden van topkwaliteit. Beschikbaar via API en diverse platforms. Flux wordt breed gezien als de nieuwe standaard voor kwalitatieve beeldgeneratie en staat boven Stable Diffusion.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 0.04,
+    "rating": 4.7,
+    "reviews_aantal": 480,
+    "voor_wie": [
+      "developer",
+      "designer",
+      "kunstenaar",
+      "tech enthusiast"
+    ],
+    "use_cases": [
+      "fotorealistische beelden",
+      "artistieke creaties",
+      "API integratie",
+      "custom workflows"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Topkwaliteit open-source model",
+      "API beschikbaar per afbeelding",
+      "Beste fotorealisme momenteel"
+    ],
+    "tegen": [
+      "Geen eigen interface",
+      "Technische kennis vereist",
+      "Betaling per gebruik"
+    ],
+    "affiliate_url": "https://blackforestlabs.ai",
+    "website": "https://blackforestlabs.ai",
+    "logo": "/logos/flux-ai.svg",
+    "alternativen": [
+      "stable-diffusion",
+      "midjourney",
+      "dall-e-3"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "clipdrop",
+    "naam": "Clipdrop",
+    "slug": "clipdrop",
+    "tagline": "AI fotobewerking voor product en achtergrond",
+    "beschrijving": "Clipdrop van Stability AI is een set AI-tools voor fotobewerking. Achtergrond verwijderen, relighting, upscalen, ruis verwijderen en objecten verwijderen — allemaal in één app. Clipdrop is populair bij e-commerce bedrijven voor het snel bewerken van productfoto's. De API laat developers AI-beeldbewerking integreren in eigen apps.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 13,
+    "rating": 4.4,
+    "reviews_aantal": 780,
+    "voor_wie": [
+      "e-commerce",
+      "fotograaf",
+      "designer",
+      "marketeer"
+    ],
+    "use_cases": [
+      "achtergrond verwijderen",
+      "productfoto's bewerken",
+      "foto's upscalen",
+      "objecten verwijderen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Snelle AI-fotobewerking",
+      "API voor developers",
+      "Uitstekend voor productfoto's"
+    ],
+    "tegen": [
+      "Geen volledige beeldgeneratie",
+      "Beperkt gratis plan",
+      "Minder functies dan Adobe Firefly"
+    ],
+    "affiliate_url": "https://clipdrop.co",
+    "website": "https://clipdrop.co",
+    "logo": "/logos/clipdrop.svg",
+    "alternativen": [
+      "adobe-firefly",
+      "canva-ai",
+      "remove-bg"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "pika-labs",
+    "naam": "Pika Labs",
+    "slug": "pika-labs",
+    "tagline": "AI video generatie van tekst en afbeeldingen",
+    "beschrijving": "Pika is een AI-videogeneratieplatform dat tekst en afbeeldingen omzet naar korte video's. Met Pika 1.5 genereer je 3-10 seconden video-clips van hoge kwaliteit. Uniek is de 'Pikaffects' functie die spectaculaire visuele effecten toevoegt aan bestaande video's. Toegankelijk via Discord en de webapp.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 8,
+    "rating": 4.3,
+    "reviews_aantal": 560,
+    "voor_wie": [
+      "content creator",
+      "filmmaker",
+      "marketeer",
+      "social media manager"
+    ],
+    "use_cases": [
+      "korte video's genereren",
+      "video effecten",
+      "animaties maken",
+      "social media content"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Gratis plan beschikbaar",
+      "Unieke Pikaffects",
+      "Makkelijke interface"
+    ],
+    "tegen": [
+      "Beperkt tot korte clips (3-10 sec)",
+      "Gratis plan heeft watermark",
+      "Minder krachtig dan Runway"
+    ],
+    "affiliate_url": "https://pika.art",
+    "website": "https://pika.art",
+    "logo": "/logos/pika-labs.svg",
+    "alternativen": [
+      "runway",
+      "heygen",
+      "invideo-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "lumen5",
+    "naam": "Lumen5",
+    "slug": "lumen5",
+    "tagline": "Blog naar video met AI in minuten",
+    "beschrijving": "Lumen5 is een video-creatieplatform dat blogposts en tekst automatisch omzet naar videocontent. AI kiest relevante stockbeelden en video's, voegt ondertitels toe en synchroniseert alles met achtergrondmuziek. Populair bij content teams voor het repurposen van bestaande content naar social media video's. Biedt branded templates voor consistente merkuitstraling.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 29,
+    "rating": 4.2,
+    "reviews_aantal": 920,
+    "voor_wie": [
+      "content marketeer",
+      "social media manager",
+      "blogger",
+      "marketeer"
+    ],
+    "use_cases": [
+      "blog naar video",
+      "social media video's",
+      "branded content",
+      "nieuwsbrieven"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Blog makkelijk naar video omzetten",
+      "Branded templates",
+      "Gratis plan beschikbaar"
+    ],
+    "tegen": [
+      "Beperkte creatieve controle",
+      "Stockbeelden soms niet relevant",
+      "Gratis plan heeft watermark"
+    ],
+    "affiliate_url": "https://lumen5.com",
+    "website": "https://lumen5.com",
+    "logo": "/logos/lumen5.svg",
+    "alternativen": [
+      "invideo-ai",
+      "runway",
+      "heygen"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "ahrefs-ai",
+    "naam": "Ahrefs AI",
+    "slug": "ahrefs-ai",
+    "tagline": "De complete SEO toolkit met AI-inzichten",
+    "beschrijving": "Ahrefs is een toonaangevende SEO-suite met AI-functies voor keyword research, backlink analyse en contentoptimalisatie. AI Content Helper analyseert je content en geeft concrete verbeterpunten. Ahrefs heeft de grootste backlink database ter wereld. AI-powered functies omvatten automatische keyword clustering en contentgap analyse.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 99,
+    "prijs_pro": 199,
+    "rating": 4.7,
+    "reviews_aantal": 3400,
+    "voor_wie": [
+      "SEO specialist",
+      "digital marketeer",
+      "agency",
+      "content marketeer"
+    ],
+    "use_cases": [
+      "backlink analyse",
+      "keyword research",
+      "concurrent analyse",
+      "site audit"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Grootste backlink database",
+      "Meest betrouwbare SEO data",
+      "Complete SEO toolkit"
+    ],
+    "tegen": [
+      "Duur startplan (€99/maand)",
+      "Geen gratis plan",
+      "Overkill voor kleine sites"
+    ],
+    "affiliate_url": "https://ahrefs.com",
+    "website": "https://ahrefs.com",
+    "logo": "/logos/ahrefs-ai.svg",
+    "alternativen": [
+      "semrush-ai",
+      "surfer-seo",
+      "moz-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "neuronwriter",
+    "naam": "NeuronWriter",
+    "slug": "neuronwriter",
+    "tagline": "Betaalbare Surfer SEO concurrent met AI schrijven",
+    "beschrijving": "NeuronWriter is een betaalbaar content-optimalisatieplatform als alternatief voor Surfer SEO. Het analyseert SERP-resultaten en geeft gedetailleerde aanbevelingen voor SEO-content. De AI-schrijver genereert content op basis van de analyse. Uitstekend voor freelancers en kleine bureaus die een krachtige SEO-schrijftool zoeken zonder het hoge prijskaartje.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 19,
+    "prijs_pro": 37,
+    "rating": 4.4,
+    "reviews_aantal": 520,
+    "voor_wie": [
+      "SEO specialist",
+      "bloggers",
+      "freelancer",
+      "copywriter"
+    ],
+    "use_cases": [
+      "SEO content schrijven",
+      "SERP analyse",
+      "content optimaliseren",
+      "keyword research"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Betaalbaar alternatief voor Surfer",
+      "AI-schrijven geïntegreerd",
+      "Eenvoudige interface"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Minder data dan Semrush",
+      "Kleiner team en ondersteuning"
+    ],
+    "affiliate_url": "https://neuronwriter.com",
+    "website": "https://neuronwriter.com",
+    "logo": "/logos/neuronwriter.svg",
+    "alternativen": [
+      "surfer-seo",
+      "frase",
+      "clearscope"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "keyword-insights",
+    "naam": "Keyword Insights AI",
+    "slug": "keyword-insights-ai",
+    "tagline": "AI keyword clustering voor SEO content strategie",
+    "beschrijving": "Keyword Insights is een AI-tool gespecialiseerd in keyword clustering en content briefing. Het groepeert duizenden keywords automatisch in topics en subtopics, zodat je weet welke pagina's je moet maken. De Content Brief generator maakt gedetailleerde SEO-briefings op basis van SERP-analyse. Ideaal voor programmatic SEO en contentstrategieën op schaal.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 58,
+    "prijs_pro": 199,
+    "rating": 4.5,
+    "reviews_aantal": 340,
+    "voor_wie": [
+      "SEO specialist",
+      "content strateeg",
+      "agency",
+      "programmatic SEO"
+    ],
+    "use_cases": [
+      "keyword clustering",
+      "content strategie",
+      "site structuur",
+      "content briefings"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Beste keyword clustering tool",
+      "Ideaal voor pSEO projecten",
+      "Automatische content briefings"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Duur voor kleine teams",
+      "Focust enkel op keyword analyse"
+    ],
+    "affiliate_url": "https://www.keywordinsights.ai",
+    "website": "https://www.keywordinsights.ai",
+    "logo": "/logos/keyword-insights-ai.svg",
+    "alternativen": [
+      "semrush-ai",
+      "ahrefs-ai",
+      "surfer-seo"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "zendesk-ai",
+    "naam": "Zendesk AI",
+    "slug": "zendesk-ai",
+    "tagline": "Enterprise klantenservice AI voor grote teams",
+    "beschrijving": "Zendesk met AI is de toonaangevende klantenserviceoplossing voor middelgrote en grote bedrijven. Zendesk AI automatiseert ticketclassificatie, suggereert antwoorden en biedt intelligente routing. De Intelligent Triage functie categoriseert tickets automatisch op basis van intent en sentiment. Zendesk bedient meer dan 100.000 bedrijven wereldwijd.",
+    "categorie": "AI Klantenservice",
+    "categorie_slug": "ai-klantenservice",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 55,
+    "prijs_pro": 115,
+    "rating": 4.3,
+    "reviews_aantal": 4200,
+    "voor_wie": [
+      "klantenservice manager",
+      "enterprise",
+      "e-commerce",
+      "SaaS bedrijf"
+    ],
+    "use_cases": [
+      "ticket management",
+      "chatbot",
+      "klantenservice automatisering",
+      "rapportage"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Industriestandaard voor klantenservice",
+      "Uitgebreide rapportage",
+      "Enorme integratiemarktplaats"
+    ],
+    "tegen": [
+      "Duur voor kleine bedrijven",
+      "Complexe setup",
+      "AI functies vereisen duurder plan"
+    ],
+    "affiliate_url": "https://www.zendesk.com",
+    "website": "https://www.zendesk.com",
+    "logo": "/logos/zendesk-ai.svg",
+    "alternativen": [
+      "freshdesk-ai",
+      "intercom-ai",
+      "tidio"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "crisp",
+    "naam": "Crisp",
+    "slug": "crisp",
+    "tagline": "AI livechat voor startups en kleine bedrijven",
+    "beschrijving": "Crisp is een betaalbaar klantenserviceplatform met AI-chatbot voor kleine bedrijven en startups. MagicReply AI genereert antwoordsuggesties op basis van je kennisbank. Crisp biedt live chat, e-mail, WhatsApp en Instagram integratie in één inbox. Het gratis plan is genereus met 2 agenten en basis chatfuncties.",
+    "categorie": "AI Klantenservice",
+    "categorie_slug": "ai-klantenservice",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 25,
+    "rating": 4.3,
+    "reviews_aantal": 1100,
+    "voor_wie": [
+      "kleine ondernemer",
+      "startup",
+      "e-commerce",
+      "freelancer"
+    ],
+    "use_cases": [
+      "live chat",
+      "chatbot",
+      "klantenservice",
+      "lead generatie"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Genereus gratis plan",
+      "Omnichannel inbox",
+      "Betaalbaar voor kleine teams"
+    ],
+    "tegen": [
+      "AI functies gelimiteerd",
+      "Minder geavanceerd dan Intercom",
+      "Beperkte rapportage gratis"
+    ],
+    "affiliate_url": "https://crisp.chat",
+    "website": "https://crisp.chat",
+    "logo": "/logos/crisp.svg",
+    "alternativen": [
+      "tidio",
+      "freshdesk-ai",
+      "intercom-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "polymer",
+    "naam": "Polymer",
+    "slug": "polymer",
+    "tagline": "Spreadsheets omzetten naar interactieve AI-dashboards",
+    "beschrijving": "Polymer zet Google Sheets, Excel en CSV-bestanden automatisch om naar mooie, interactieve dashboards. Upload je data en Polymer's AI analyseert automatisch de structuur, maakt visualisaties en beantwoordt vragen in natuurlijke taal. Geen SQL of data science kennis vereist. Ideaal voor niet-technische gebruikers die inzicht willen uit hun data.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 10,
+    "rating": 4.3,
+    "reviews_aantal": 290,
+    "voor_wie": [
+      "marketeer",
+      "ondernemer",
+      "business analist",
+      "sales manager"
+    ],
+    "use_cases": [
+      "dashboards maken",
+      "data visualisatie",
+      "spreadsheet analyse",
+      "rapportage"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Geen technische kennis vereist",
+      "Automatische dashboard generatie",
+      "Betaalbaar plan"
+    ],
+    "tegen": [
+      "Beperkte aanpassingsmogelijkheden",
+      "Minder krachtig dan Tableau",
+      "Geen native database connecties"
+    ],
+    "affiliate_url": "https://www.polymersearch.com",
+    "website": "https://www.polymersearch.com",
+    "logo": "/logos/polymer.svg",
+    "alternativen": [
+      "julius-ai",
+      "power-bi",
+      "looker-studio"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "looker-studio",
+    "naam": "Looker Studio",
+    "slug": "looker-studio",
+    "tagline": "Gratis Google data visualisatie met AI-inzichten",
+    "beschrijving": "Looker Studio (voorheen Google Data Studio) is Google's gratis business intelligence platform. Het verbindt met meer dan 800 databronnen waaronder Google Analytics, Search Console, Google Ads en BigQuery. Looker Studio AI genereert automatisch inzichten en aanbevelingen. Volledig gratis voor alle gebruikers en diep geïntegreerd met het Google ecosysteem.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Gratis",
+    "prijs_vanaf": 0,
+    "prijs_pro": 0,
+    "rating": 4.4,
+    "reviews_aantal": 5600,
+    "voor_wie": [
+      "marketeer",
+      "SEO specialist",
+      "data analist",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "marketing dashboards",
+      "SEO rapportage",
+      "Google Ads analyse",
+      "data visualisatie"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Volledig gratis",
+      "800+ databronnen",
+      "Diep Google ecosysteem integratie"
+    ],
+    "tegen": [
+      "Minder krachtig dan Tableau/Power BI",
+      "Beperkte AI-functies",
+      "Steile leercurve voor geavanceerde functies"
+    ],
+    "affiliate_url": "https://lookerstudio.google.com",
+    "website": "https://lookerstudio.google.com",
+    "logo": "/logos/looker-studio.svg",
+    "alternativen": [
+      "power-bi",
+      "tableau-ai",
+      "julius-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "akkio",
+    "naam": "Akkio",
+    "slug": "akkio",
+    "tagline": "No-code AI data analyse voor marketing teams",
+    "beschrijving": "Akkio is een no-code AI-analyseplatform voor marketing en sales teams. Upload je data en Akkio traint automatisch AI-modellen om voorspellingen te maken: lead scoring, churn predictie, omzetprognoses. Geen data science kennis vereist. Chat with Your Data laat je in gewone taal vragen stellen over je bedrijfsdata.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 49,
+    "prijs_pro": 99,
+    "rating": 4.2,
+    "reviews_aantal": 180,
+    "voor_wie": [
+      "marketeer",
+      "sales manager",
+      "ondernemer",
+      "business analist"
+    ],
+    "use_cases": [
+      "lead scoring",
+      "churn predictie",
+      "omzetprognoses",
+      "data analyse"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "No-code AI-modeltraining",
+      "Predictieve analyses voor sales",
+      "Gebruiksvriendelijke interface"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Vrij duur",
+      "Beperkte visualisatiemogelijkheden"
+    ],
+    "affiliate_url": "https://www.akkio.com",
+    "website": "https://www.akkio.com",
+    "logo": "/logos/akkio.svg",
+    "alternativen": [
+      "julius-ai",
+      "polymer",
+      "power-bi"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "reclaim-ai",
+    "naam": "Reclaim AI",
+    "slug": "reclaim-ai",
+    "tagline": "AI-agendabeheer dat je tijd optimaliseert",
+    "beschrijving": "Reclaim AI is een slimme agendatool die automatisch tijd inplant voor taken, gewoonten en vergaderingen. De AI analyseert je agenda en vindt de beste tijdslots voor focuswerk, 1:1's en pauzes. Reclaim integreert met Google Calendar en Asana om taken automatisch in je agenda te zetten. Ideaal voor drukke professionals die meer gedaan willen krijgen.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 8,
+    "rating": 4.5,
+    "reviews_aantal": 780,
+    "voor_wie": [
+      "manager",
+      "professional",
+      "freelancer",
+      "team lead"
+    ],
+    "use_cases": [
+      "agenda optimaliseren",
+      "focustijd inplannen",
+      "vergaderingen coördineren",
+      "taken plannen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Automatisch agenda-optimalisatie",
+      "Focustijd beschermen",
+      "Integreert met Google Calendar en Asana"
+    ],
+    "tegen": [
+      "Alleen Google Calendar (nog geen Outlook)",
+      "AI-suggesties soms onhandig",
+      "Beperkt gratis plan"
+    ],
+    "affiliate_url": "https://reclaim.ai",
+    "website": "https://reclaim.ai",
+    "logo": "/logos/reclaim-ai.svg",
+    "alternativen": [
+      "motion-ai",
+      "notion-ai",
+      "asana-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "motion-ai",
+    "naam": "Motion",
+    "slug": "motion-ai",
+    "tagline": "AI plant automatisch je dag en taken in",
+    "beschrijving": "Motion is een AI-productiviteitsapp die automatisch je taken, vergaderingen en deadlines optimaliseert in een dagplanning. De AI herbalanceert je dag automatisch wanneer er iets uitloopt of nieuwe taken bijkomen. Motion combineert takenlijst, projectmanagement en agenda in één app. Populair bij drukke professionals die hun tijd maximaal willen benutten.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 19,
+    "prijs_pro": 12,
+    "rating": 4.4,
+    "reviews_aantal": 1240,
+    "voor_wie": [
+      "professional",
+      "ondernemer",
+      "freelancer",
+      "manager"
+    ],
+    "use_cases": [
+      "dagplanning",
+      "taken prioriteren",
+      "projectmanagement",
+      "agenda-optimalisatie"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Automatische dagplanning door AI",
+      "Combineert taken en agenda",
+      "Herbalanceert bij veranderingen"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Vereist volledig vertrouwen in AI-planning",
+      "Beperkte aanpassingsmogelijkheden"
+    ],
+    "affiliate_url": "https://usemotion.com",
+    "website": "https://usemotion.com",
+    "logo": "/logos/motion-ai.svg",
+    "alternativen": [
+      "reclaim-ai",
+      "asana-ai",
+      "clickup-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "v0-dev",
+    "naam": "v0 by Vercel",
+    "slug": "v0-dev",
+    "tagline": "AI genereert React componenten en UI uit beschrijving",
+    "beschrijving": "v0 van Vercel is een AI-tool die React componenten en volledige UI's genereert op basis van tekst beschrijvingen of afbeeldingen. Gebaseerd op shadcn/ui en Tailwind CSS genereert v0 schone, productie-klare code. Ideaal voor developers die snel prototypes willen bouwen of UI-componenten willen genereren. Direct deploybaar naar Vercel.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.7,
+    "reviews_aantal": 870,
+    "voor_wie": [
+      "developer",
+      "designer",
+      "freelancer",
+      "startup"
+    ],
+    "use_cases": [
+      "UI componenten genereren",
+      "prototyping",
+      "React code schrijven",
+      "design naar code"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Beste UI-generatie tool",
+      "Direct Vercel deployment",
+      "Schone shadcn/Tailwind code"
+    ],
+    "tegen": [
+      "Focust alleen op UI/frontend",
+      "Gratis plan heeft generatielimieten",
+      "Vereist React kennis"
+    ],
+    "affiliate_url": "https://v0.dev",
+    "website": "https://v0.dev",
+    "logo": "/logos/v0-dev.svg",
+    "alternativen": [
+      "cursor",
+      "copilot",
+      "replit-ai"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "bolt-new",
+    "naam": "Bolt.new",
+    "slug": "bolt-new",
+    "tagline": "Volledige web apps bouwen met AI in de browser",
+    "beschrijving": "Bolt.new van StackBlitz laat je volledige webapplicaties bouwen, runnen en deployen via AI in de browser. Beschrijf je app en Bolt schrijft de code, installeert packages en draait alles live in een browser-gebaseerde omgeving. Ondersteunt React, Next.js, Vue, Svelte en meer. Geen lokale setup vereist, direct deployen naar Netlify.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.6,
+    "reviews_aantal": 1120,
+    "voor_wie": [
+      "developer",
+      "ondernemer",
+      "freelancer",
+      "startup"
+    ],
+    "use_cases": [
+      "web apps bouwen",
+      "prototyping",
+      "full-stack development",
+      "rapid deployment"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Volledige apps in de browser bouwen",
+      "Geen lokale setup vereist",
+      "Ondersteunt meerdere frameworks"
+    ],
+    "tegen": [
+      "Gratis tokens snel opgebruikt",
+      "Complexe apps vereisen meer tokens",
+      "Beperkte debugging mogelijkheden"
+    ],
+    "affiliate_url": "https://bolt.new",
+    "website": "https://bolt.new",
+    "logo": "/logos/bolt-new.svg",
+    "alternativen": [
+      "cursor",
+      "replit-ai",
+      "v0-dev"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "lovable",
+    "naam": "Lovable",
+    "slug": "lovable",
+    "tagline": "AI bouwt je SaaS-applicatie van idee tot live",
+    "beschrijving": "Lovable (voorheen GPT Engineer) laat je complete webapplicaties bouwen via chat. Beschrijf je app, en Lovable genereert een volledige React/Supabase applicatie inclusief authenticatie, database en UI. Wijzigingen aanbrengen doe je via chat. Lovable deployt automatisch naar productie. Populair bij niet-developers die een SaaS-product willen lanceren.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 25,
+    "rating": 4.5,
+    "reviews_aantal": 780,
+    "voor_wie": [
+      "ondernemer",
+      "product manager",
+      "developer",
+      "startup founder"
+    ],
+    "use_cases": [
+      "SaaS apps bouwen",
+      "MVP lanceren",
+      "web apps",
+      "interne tools"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Complete app van idee tot deploy",
+      "Supabase integratie ingebouwd",
+      "Geen technische kennis vereist"
+    ],
+    "tegen": [
+      "Complexe apps vereisen meer credits",
+      "Beperkte aanpassing zonder code kennis",
+      "Soms inconsistente output"
+    ],
+    "affiliate_url": "https://lovable.dev",
+    "website": "https://lovable.dev",
+    "logo": "/logos/lovable.svg",
+    "alternativen": [
+      "bolt-new",
+      "replit-ai",
+      "cursor"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "play-ht",
+    "naam": "Play.ht",
+    "slug": "play-ht",
+    "tagline": "Ultrarealistische AI-stemgeneratie en klonen",
+    "beschrijving": "Play.ht is een text-to-speech platform met meer dan 900 AI-stemmen in 142 talen. PlayDialog, hun nieuwste model, genereert ultrarealistische stemmen die nauwelijks van echt te onderscheiden zijn. Stemklonen maakt het mogelijk om in 30 seconden een nauwkeurige kopie van elke stem te maken. Beschikbaar via web, API en WordPress plugin.",
+    "categorie": "AI Audio",
+    "categorie_slug": "ai-audio",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 31.2,
+    "rating": 4.5,
+    "reviews_aantal": 760,
+    "voor_wie": [
+      "content creator",
+      "podcaster",
+      "developer",
+      "marketeer"
+    ],
+    "use_cases": [
+      "voice-overs",
+      "podcasts",
+      "audioboeken",
+      "stemklonen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "900+ stemmen in 142 talen",
+      "Ultrarealistische kwaliteit",
+      "Uitstekende API"
+    ],
+    "tegen": [
+      "Duurder dan ElevenLabs voor hoog gebruik",
+      "Gratis plan beperkt",
+      "Interface minder intuïtief"
+    ],
+    "affiliate_url": "https://play.ht",
+    "website": "https://play.ht",
+    "logo": "/logos/play-ht.svg",
+    "alternativen": [
+      "elevenlabs",
+      "murf-ai",
+      "speechify"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "speechify",
+    "naam": "Speechify",
+    "slug": "speechify",
+    "tagline": "AI-reader die alles voorleest op 4.5x snelheid",
+    "beschrijving": "Speechify is een text-to-speech app die documenten, webpagina's, e-mails en PDF's voorleest in realistische AI-stemmen. Met snelheden tot 4,5x normaal spreektempo kunnen gebruikers meer content consumeren in minder tijd. Speechify is populair bij mensen met dyslexie, drukke professionals en studenten. Beschikbaar op iOS, Android, Chrome en Mac.",
+    "categorie": "AI Audio",
+    "categorie_slug": "ai-audio",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 11.58,
+    "rating": 4.5,
+    "reviews_aantal": 2100,
+    "voor_wie": [
+      "student",
+      "professional",
+      "dyslexie gebruiker",
+      "content consumer"
+    ],
+    "use_cases": [
+      "documenten laten voorlezen",
+      "e-mails beluisteren",
+      "sneller leren",
+      "toegankelijkheid"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Tot 4.5x snelheid luisteren",
+      "Werkt op alle platforms",
+      "Uitstekend voor toegankelijkheid"
+    ],
+    "tegen": [
+      "Premium vereist voor beste stemmen",
+      "Focust op lezen, niet creëren",
+      "Duurder jaarabonnement"
+    ],
+    "affiliate_url": "https://speechify.com",
+    "website": "https://speechify.com",
+    "logo": "/logos/speechify.svg",
+    "alternativen": [
+      "elevenlabs",
+      "murf-ai",
+      "play-ht"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "phind",
+    "naam": "Phind",
+    "slug": "phind",
+    "tagline": "AI-zoekmachine speciaal voor developers",
+    "beschrijving": "Phind is een AI-zoekmachine specifiek ontworpen voor programmeurs en developers. Het doorzoekt StackOverflow, GitHub, documentatie en technische blogs om accurate code-antwoorden te geven. Phind begrijpt technische vragen en geeft complete code voorbeelden met context. De gratis versie biedt toegang tot GPT-4 klasse modellen voor technische vragen.",
+    "categorie": "AI Zoekmachine",
+    "categorie_slug": "ai-zoekmachine",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 20,
+    "rating": 4.5,
+    "reviews_aantal": 560,
+    "voor_wie": [
+      "developer",
+      "student programmeren",
+      "tech professional"
+    ],
+    "use_cases": [
+      "code vragen",
+      "debugging hulp",
+      "documentatie zoeken",
+      "technische problemen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Speciaal voor technische vragen",
+      "Doorzoekt StackOverflow en GitHub",
+      "Gratis GPT-4 klasse model"
+    ],
+    "tegen": [
+      "Alleen voor technische use cases",
+      "Geen Nederlandse taalondersteuning",
+      "Beperkt buiten developer domein"
+    ],
+    "affiliate_url": "https://www.phind.com",
+    "website": "https://www.phind.com",
+    "logo": "/logos/phind.svg",
+    "alternativen": [
+      "perplexity",
+      "chatgpt",
+      "you-com"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "uizard",
+    "naam": "Uizard",
+    "slug": "uizard",
+    "tagline": "AI zet schetsjes om naar digitale UI-prototypes",
+    "beschrijving": "Uizard is een AI-designtool die schetsjes en screenshots omzet naar digitale wireframes en prototypes. Autodesigner maakt complete app-ontwerpen op basis van een tekstprompt. Ideaal voor product managers, startups en niet-designers die snel visuele prototypes willen maken. Uizard integreert met Figma voor handoff naar design teams.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 12,
+    "rating": 4.2,
+    "reviews_aantal": 430,
+    "voor_wie": [
+      "product manager",
+      "startup founder",
+      "designer",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "wireframes maken",
+      "app prototypes",
+      "UI ontwerpen",
+      "product design"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Schetsjes naar digitaal prototype",
+      "Geen design kennis vereist",
+      "Figma export mogelijk"
+    ],
+    "tegen": [
+      "Minder geavanceerd dan Figma",
+      "Beperkte aanpassingsmogelijkheden",
+      "Gratis plan gelimiteerd"
+    ],
+    "affiliate_url": "https://uizard.io",
+    "website": "https://uizard.io",
+    "logo": "/logos/uizard.svg",
+    "alternativen": [
+      "canva-ai",
+      "adobe-firefly",
+      "figma-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "gamma-app",
+    "naam": "Gamma",
+    "slug": "gamma-app",
+    "tagline": "AI presentaties en documenten in seconden",
+    "beschrijving": "Gamma is een AI-tool die presentaties, documenten en webpagina's genereert op basis van tekst-prompts. In tegenstelling tot PowerPoint maakt Gamma mooie, moderne presentaties zonder handmatig sliden opmaken. De AI-assistent kan ook bestaande content omzetten naar presentaties. Gamma werkt in de browser en genereert deelbare links.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 10,
+    "rating": 4.5,
+    "reviews_aantal": 1340,
+    "voor_wie": [
+      "marketeer",
+      "sales manager",
+      "student",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "presentaties maken",
+      "pitch decks",
+      "documenten genereren",
+      "webpagina's"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Presentaties in seconden genereren",
+      "Modern en mooi design",
+      "Makkelijk delen via link"
+    ],
+    "tegen": [
+      "Minder controle dan PowerPoint",
+      "Premium voor export naar PPTX",
+      "Beperkte sjabloonvariatie"
+    ],
+    "affiliate_url": "https://gamma.app",
+    "website": "https://gamma.app",
+    "logo": "/logos/gamma-app.svg",
+    "alternativen": [
+      "notion-ai",
+      "microsoft-copilot",
+      "canva-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "claude-code",
+    "naam": "Claude Code",
+    "slug": "claude-code",
+    "tagline": "AI-engineeringsassistent voor de command line",
+    "beschrijving": "Claude Code van Anthropic is een agentic coding tool die direct in je terminal werkt. Het begrijpt je volledige codebase, schrijft en bewerkt code zelfstandig, voert tests uit en deployt applicaties. Claude Code is ontworpen voor complexe engineering taken en werkt samen met MCP servers voor extra integraties.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 20,
+    "prijs_pro": 20,
+    "rating": 4.8,
+    "reviews_aantal": 890,
+    "voor_wie": [
+      "developer",
+      "freelancer",
+      "tech lead"
+    ],
+    "use_cases": [
+      "code schrijven",
+      "refactoring",
+      "debugging",
+      "deployment"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Werkt autonoom in je terminal",
+      "Begrijpt volledige codebase",
+      "MCP integraties mogelijk"
+    ],
+    "tegen": [
+      "Vereist Claude Pro abonnement",
+      "Steile leercurve voor setup",
+      "Beperkt tot command line"
+    ],
+    "affiliate_url": "https://claude.ai/code",
+    "website": "https://claude.ai/code",
+    "logo": "/logos/claude-code.svg",
+    "alternativen": [
+      "cursor",
+      "copilot",
+      "bolt-new"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "windsurf",
+    "naam": "Windsurf",
+    "slug": "windsurf",
+    "tagline": "AI-first IDE van Codeium met Cascade agent",
+    "beschrijving": "Windsurf van Codeium is een AI-first code editor gebaseerd op VS Code met de Cascade multi-file agent. Cascade begrijpt je volledige codebase en kan meerdere bestanden tegelijk aanpassen voor complexe refactoring. Windsurf is een direct concurrent van Cursor met vergelijkbare functies en een royaler gratis plan.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 15,
+    "rating": 4.6,
+    "reviews_aantal": 670,
+    "voor_wie": [
+      "developer",
+      "freelancer",
+      "student"
+    ],
+    "use_cases": [
+      "code schrijven",
+      "multi-file editing",
+      "debugging",
+      "refactoring"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Royaal gratis plan",
+      "Cascade multi-file agent",
+      "Vergelijkbaar met Cursor"
+    ],
+    "tegen": [
+      "Nieuwer dan Cursor met minder community",
+      "Beperkte extensie-bibliotheek",
+      "Soms instabiel"
+    ],
+    "affiliate_url": "https://codeium.com/windsurf",
+    "website": "https://codeium.com/windsurf",
+    "logo": "/logos/windsurf.svg",
+    "alternativen": [
+      "cursor",
+      "copilot",
+      "codeium"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "devin",
+    "naam": "Devin AI",
+    "slug": "devin-ai",
+    "tagline": "Eerste volledig autonome AI software engineer",
+    "beschrijving": "Devin van Cognition is 's werelds eerste volledig autonome AI software engineer. Het kan zelfstandig end-to-end softwareontwikkelingstaken uitvoeren: van planning en onderzoek tot het schrijven van code, testen en debuggen. Devin werkt in zijn eigen sandboxomgeving met browser, terminal en code editor.",
+    "categorie": "AI Code Assistent",
+    "categorie_slug": "ai-code-assistent",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 500,
+    "prijs_pro": 500,
+    "rating": 4.0,
+    "reviews_aantal": 180,
+    "voor_wie": [
+      "tech lead",
+      "CTO",
+      "enterprise developer"
+    ],
+    "use_cases": [
+      "autonome softwareontwikkeling",
+      "complexe engineering taken",
+      "code migraties"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Volledig autonoom coderen",
+      "End-to-end projectafhandeling",
+      "Eigen sandbox omgeving"
+    ],
+    "tegen": [
+      "Extreem duur ($500+/maand)",
+      "Niet altijd betrouwbaar",
+      "Overkill voor de meeste taken"
+    ],
+    "affiliate_url": "https://devin.ai",
+    "website": "https://devin.ai",
+    "logo": "/logos/devin.svg",
+    "alternativen": [
+      "cursor",
+      "claude-code",
+      "copilot"
+    ],
+    "featured": false,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "perplexity-labs",
+    "naam": "Perplexity Labs",
+    "slug": "perplexity-labs",
+    "tagline": "AI onderzoeksassistent met diepgaande rapporten",
+    "beschrijving": "Perplexity Labs biedt geavanceerde onderzoeksfuncties bovenop de standaard Perplexity AI. Deep Research genereert uitgebreide, goed onderbouwde rapporten over complexe onderwerpen door tientallen bronnen te analyseren. Pro Search biedt meer gedetailleerde antwoorden met meerdere zoekrondes. Ideaal voor researchers en kenniswerkers.",
+    "categorie": "AI Zoekmachine",
+    "categorie_slug": "ai-zoekmachine",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 20,
+    "prijs_pro": 20,
+    "rating": 4.7,
+    "reviews_aantal": 430,
+    "voor_wie": [
+      "onderzoeker",
+      "journalist",
+      "student",
+      "consultant"
+    ],
+    "use_cases": [
+      "diepgaand onderzoek",
+      "rapporten schrijven",
+      "bronnen analyseren",
+      "fact-checking"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Deep Research genereert complete rapporten",
+      "Uitstekende bronvermelding",
+      "Meerdere bronnen tegelijk"
+    ],
+    "tegen": [
+      "Vereist Pro abonnement",
+      "Soms langzaam bij complexe queries",
+      "Minder geschikt voor creatieve taken"
+    ],
+    "affiliate_url": "https://labs.perplexity.ai",
+    "website": "https://labs.perplexity.ai",
+    "logo": "/logos/perplexity-labs.svg",
+    "alternativen": [
+      "perplexity",
+      "chatgpt",
+      "gemini"
+    ],
+    "featured": false,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "koala-writer",
+    "naam": "Koala Writer",
+    "slug": "koala-writer",
+    "tagline": "SEO blogposts genereren met realtime data",
+    "beschrijving": "Koala Writer is een AI-bloggenerator die SEO-geoptimaliseerde artikelen schrijft met realtime zoekdata. Het combineert SERP-analyse met AI-schrijven om artikelen te genereren die kans hebben te ranken. KoalaChat integreert web search voor actuele informatie. Populair bij affiliate marketeers en bloggers voor bulk contentproductie.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 9,
+    "prijs_pro": 25,
+    "rating": 4.3,
+    "reviews_aantal": 390,
+    "voor_wie": [
+      "bloggers",
+      "affiliate marketeer",
+      "SEO specialist",
+      "content creator"
+    ],
+    "use_cases": [
+      "blogposts genereren",
+      "SEO content",
+      "affiliate artikelen",
+      "product reviews"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "SERP-data geïntegreerd",
+      "Betaalbaar startplan (€9/maand)",
+      "Snel grote volumes content"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Output vereist menselijke review",
+      "Beperkte aanpassingsmogelijkheden"
+    ],
+    "affiliate_url": "https://koalawriter.ai",
+    "website": "https://koalawriter.ai",
+    "logo": "/logos/koala-writer.svg",
+    "alternativen": [
+      "writesonic",
+      "copy-ai",
+      "surfer-seo"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "neuroflash",
+    "naam": "Neuroflash",
+    "slug": "neuroflash",
+    "tagline": "DACH-markt AI schrijfassistent in het Duits en Nederlands",
+    "beschrijving": "Neuroflash is een Duits AI-schrijfplatform geoptimaliseerd voor de DACH-markt maar ook uitstekend in Nederlands. Met 100+ templates voor marketing, e-commerce en B2B content schrijft het kwalitatieve teksten in 20 talen. De Brand Hub slaat je merkstijl op voor consistente output. Compliant met AVG/GDPR en servers in Europa.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 30,
+    "rating": 4.3,
+    "reviews_aantal": 520,
+    "voor_wie": [
+      "marketeer",
+      "copywriter",
+      "ondernemer",
+      "KMO"
+    ],
+    "use_cases": [
+      "marketing teksten",
+      "productbeschrijvingen",
+      "social media",
+      "e-mails"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Uitstekend Nederlands",
+      "GDPR-compliant Europese servers",
+      "Sterk in marketing copy"
+    ],
+    "tegen": [
+      "Minder bekend dan Jasper",
+      "Beperkt gratis plan",
+      "Minder integraties"
+    ],
+    "affiliate_url": "https://neuroflash.com",
+    "website": "https://neuroflash.com",
+    "logo": "/logos/neuroflash.svg",
+    "alternativen": [
+      "jasper",
+      "rytr",
+      "copy-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "nightcafe",
+    "naam": "NightCafe",
+    "slug": "nightcafe",
+    "tagline": "AI kunstgenerator met credits en community",
+    "beschrijving": "NightCafe is een AI-kunstgenerator die meerdere modellen ondersteunt waaronder Stable Diffusion, DALL-E en eigen modellen. Het biedt een credits-systeem waarbij je gratis credits verdient door deel te nemen aan de community. NightCafe heeft een sociale component: je kunt kunst delen, liken en commentaar geven. Populair bij hobbykunstenaars.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 9.99,
+    "rating": 4.2,
+    "reviews_aantal": 840,
+    "voor_wie": [
+      "hobbykunstenaar",
+      "content creator",
+      "kunstenaar",
+      "designer"
+    ],
+    "use_cases": [
+      "digitale kunst",
+      "AI illustraties",
+      "achtergronden",
+      "profielafbeeldingen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Gratis credits verdienen via community",
+      "Meerdere AI-modellen beschikbaar",
+      "Sociale community"
+    ],
+    "tegen": [
+      "Beperkte credits gratis",
+      "Minder kwaliteit dan Midjourney",
+      "Geen API"
+    ],
+    "affiliate_url": "https://creator.nightcafe.studio",
+    "website": "https://creator.nightcafe.studio",
+    "logo": "/logos/nightcafe.svg",
+    "alternativen": [
+      "midjourney",
+      "stable-diffusion",
+      "leonardo-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "picso",
+    "naam": "Picso",
+    "slug": "picso",
+    "tagline": "AI avatar en portretten van jezelf genereren",
+    "beschrijving": "Picso is een AI-beeldgenerator gespecialiseerd in het maken van AI-avatars, portretten en stijloverdrachten op basis van jouw foto's. Upload 10-20 foto's en Picso traint een persoonlijk model om je in allerlei stijlen te genereren. Populair voor professionele LinkedIn-foto's, gaming avatars en creatieve profielafbeeldingen.",
+    "categorie": "AI Beeldgeneratie",
+    "categorie_slug": "ai-beeldgeneratie",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 9.99,
+    "prijs_pro": 14.99,
+    "rating": 4.3,
+    "reviews_aantal": 580,
+    "voor_wie": [
+      "professional",
+      "gamer",
+      "content creator",
+      "social media gebruiker"
+    ],
+    "use_cases": [
+      "AI profielfoto's",
+      "avatars maken",
+      "portretten",
+      "stijloverdracht"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Persoonlijk AI-model van jezelf",
+      "Professionele LinkedIn foto's",
+      "Vele stijlen beschikbaar"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Eenmalig gebruik model training",
+      "Privacyzorgen bij foto-upload"
+    ],
+    "affiliate_url": "https://picso.ai",
+    "website": "https://picso.ai",
+    "logo": "/logos/picso.svg",
+    "alternativen": [
+      "midjourney",
+      "dall-e-3",
+      "adobe-firefly"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "kling-ai",
+    "naam": "Kling AI",
+    "slug": "kling-ai",
+    "tagline": "Chinese AI-videogenerator van hoge kwaliteit",
+    "beschrijving": "Kling AI van Kuaishou is een krachtige Chinese AI-videogenerator die tekst en afbeeldingen omzet naar hoge-kwaliteit video's van 5-10 seconden. Kling 1.5 biedt fotorealistische videogeneratie die concurreert met Sora en Runway. Populair vanwege de royale gratis credits en competitieve kwaliteit.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 10,
+    "rating": 4.4,
+    "reviews_aantal": 430,
+    "voor_wie": [
+      "content creator",
+      "filmmaker",
+      "marketeer",
+      "designer"
+    ],
+    "use_cases": [
+      "video genereren",
+      "animaties",
+      "product video's",
+      "social media"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Topkwaliteit videogeneratie",
+      "Royale gratis credits",
+      "Snel verbeterend model"
+    ],
+    "tegen": [
+      "Chinese servers privacyzorgen",
+      "Beperkte tekstoverlays",
+      "Soms wachtrijvertraging"
+    ],
+    "affiliate_url": "https://klingai.com",
+    "website": "https://klingai.com",
+    "logo": "/logos/kling-ai.svg",
+    "alternativen": [
+      "runway",
+      "pika-labs",
+      "heygen"
+    ],
+    "featured": true,
+    "nieuw": true,
+    "verified": true
+  },
+  {
+    "id": "mangools",
+    "naam": "Mangools",
+    "slug": "mangools",
+    "tagline": "Betaalbare SEO-tools met AI-inzichten",
+    "beschrijving": "Mangools is een betaalbaar pakket SEO-tools bestaande uit KWFinder (keyword research), SERPChecker, SERPWatcher, LinkMiner en SiteProfiler. KWFinder's AI-functies helpen bij het vinden van longtail keywords met lage concurrentie. Populair bij bloggers en kleine bedrijven als budgetvriendelijk alternatief voor Semrush.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 29,
+    "prijs_pro": 44,
+    "rating": 4.5,
+    "reviews_aantal": 1240,
+    "voor_wie": [
+      "bloggers",
+      "kleine ondernemer",
+      "freelancer",
+      "SEO beginner"
+    ],
+    "use_cases": [
+      "keyword research",
+      "SERP analyse",
+      "rank tracking",
+      "backlink analyse"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Betaalbaar all-in-one pakket",
+      "Gebruiksvriendelijk voor beginners",
+      "KWFinder excellent voor longtail"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Minder data dan Semrush",
+      "Beperkter dan grote SEO suites"
+    ],
+    "affiliate_url": "https://mangools.com",
+    "website": "https://mangools.com",
+    "logo": "/logos/mangools.svg",
+    "alternativen": [
+      "semrush-ai",
+      "ahrefs-ai",
+      "neuronwriter"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "seowriting-ai",
+    "naam": "SEOWriting.ai",
+    "slug": "seowriting-ai",
+    "tagline": "Bulk SEO artikelen genereren met AI",
+    "beschrijving": "SEOWriting.ai is een gespecialiseerde AI-schrijftool voor het genereren van SEO-artikelen op schaal. Met de Bulk Generation functie maak je honderden artikelen tegelijk op basis van een keywordlijst. De tool genereert automatisch interne links, meta descriptions en FAQ-secties. Ideaal voor programmatic SEO projecten en niche sites.",
+    "categorie": "AI SEO",
+    "categorie_slug": "ai-seo",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 14,
+    "rating": 4.2,
+    "reviews_aantal": 480,
+    "voor_wie": [
+      "programmatic SEO",
+      "affiliate marketeer",
+      "niche site eigenaar",
+      "agency"
+    ],
+    "use_cases": [
+      "bulk content genereren",
+      "niche sites",
+      "affiliate content",
+      "programmatic SEO"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Bulk generatie van 100+ artikelen",
+      "Betaalbaar plan",
+      "Auto interne linking"
+    ],
+    "tegen": [
+      "Output vereist review",
+      "Kwaliteit wisselend",
+      "Risico op thin content penalties"
+    ],
+    "affiliate_url": "https://seowriting.ai",
+    "website": "https://seowriting.ai",
+    "logo": "/logos/seowriting-ai.svg",
+    "alternativen": [
+      "koala-writer",
+      "writesonic",
+      "surfer-seo"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "gorgias",
+    "naam": "Gorgias",
+    "slug": "gorgias",
+    "tagline": "AI klantenservice platform voor Shopify winkels",
+    "beschrijving": "Gorgias is een e-commerce klantenservice platform specifiek gebouwd voor Shopify, WooCommerce en Magento winkels. De AI beantwoordt automatisch vragen over bestellingen, retouren en producten door direct Shopify data te raadplegen. Automate functie lost tot 60% van tickets op zonder menselijke tussenkomst. Populair bij DTC-merken.",
+    "categorie": "AI Klantenservice",
+    "categorie_slug": "ai-klantenservice",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 10,
+    "prijs_pro": 60,
+    "rating": 4.5,
+    "reviews_aantal": 980,
+    "voor_wie": [
+      "e-commerce",
+      "Shopify eigenaar",
+      "DTC merk",
+      "webshop"
+    ],
+    "use_cases": [
+      "order vragen",
+      "retour verwerking",
+      "product vragen",
+      "e-commerce support"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Speciaal voor e-commerce",
+      "Shopify integratie diepgaand",
+      "60% auto-oplossingsrate"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Duurder bij hoog ticketvolume",
+      "Focust op e-commerce"
+    ],
+    "affiliate_url": "https://www.gorgias.com",
+    "website": "https://www.gorgias.com",
+    "logo": "/logos/gorgias.svg",
+    "alternativen": [
+      "tidio",
+      "freshdesk-ai",
+      "zendesk-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "helpscout-ai",
+    "naam": "Help Scout AI",
+    "slug": "help-scout-ai",
+    "tagline": "Menselijke klantenservice versterkt door AI",
+    "beschrijving": "Help Scout is een klantenserviceplatform dat AI gebruikt om menselijke support te versterken, niet te vervangen. AI Drafts schrijft conceptantwoorden voor agents, AI Summarize vat lange klantgesprekken samen en AI Answers beantwoordt zelfstandig eenvoudige vragen. Help Scout is populair bij SaaS-bedrijven voor zijn vriendelijke interface en human-first aanpak.",
+    "categorie": "AI Klantenservice",
+    "categorie_slug": "ai-klantenservice",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 20,
+    "prijs_pro": 40,
+    "rating": 4.5,
+    "reviews_aantal": 1340,
+    "voor_wie": [
+      "SaaS bedrijf",
+      "kleine ondernemer",
+      "startup",
+      "klantenservice team"
+    ],
+    "use_cases": [
+      "e-mail support",
+      "live chat",
+      "kennisbank",
+      "klantenservice automatisering"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": true,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Human-first AI aanpak",
+      "Uitstekende gebruikservaring",
+      "Populair bij SaaS bedrijven"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Duurder dan Crisp",
+      "Beperkte chatbot functies"
+    ],
+    "affiliate_url": "https://www.helpscout.com",
+    "website": "https://www.helpscout.com",
+    "logo": "/logos/help-scout-ai.svg",
+    "alternativen": [
+      "freshdesk-ai",
+      "intercom-ai",
+      "zendesk-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "rows",
+    "naam": "Rows",
+    "slug": "rows",
+    "tagline": "Spreadsheets met ingebouwde AI en data integraties",
+    "beschrijving": "Rows is een moderne spreadsheet tool die AI integreert om data te analyseren en visualiseren. De AI Analyst beantwoordt vragen over je data en genereert automatisch grafieken. Rows verbindt met 50+ databronnen waaronder Google Analytics, Stripe en Shopify voor automatische data-import. Ideaal als slimmer alternatief voor Google Sheets.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 59,
+    "rating": 4.3,
+    "reviews_aantal": 340,
+    "voor_wie": [
+      "data analist",
+      "marketeer",
+      "ondernemer",
+      "financieel analist"
+    ],
+    "use_cases": [
+      "data visualisatie",
+      "KPI dashboards",
+      "data integratie",
+      "rapportage"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "50+ native data integraties",
+      "AI Analyst voor vragen stellen",
+      "Moderne interface"
+    ],
+    "tegen": [
+      "Duurder dan Google Sheets",
+      "Beperkte gratis functies",
+      "Minder formules dan Excel"
+    ],
+    "affiliate_url": "https://rows.com",
+    "website": "https://rows.com",
+    "logo": "/logos/rows.svg",
+    "alternativen": [
+      "julius-ai",
+      "polymer",
+      "power-bi"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "obviously-ai",
+    "naam": "Obviously AI",
+    "slug": "obviously-ai",
+    "tagline": "No-code machine learning voorspellingen in minuten",
+    "beschrijving": "Obviously AI maakt machine learning toegankelijk voor iedereen zonder programmeerkennis. Upload een dataset en Obviously AI bouwt automatisch een voorspellingsmodel. Voorspel churn, verkopen, no-shows en meer. De tool legt zijn voorspellingen uit in begrijpelijke taal. Klaar voor gebruik in 5 minuten.",
+    "categorie": "AI Data & Analyse",
+    "categorie_slug": "ai-data-analyse",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 75,
+    "prijs_pro": 75,
+    "rating": 4.2,
+    "reviews_aantal": 210,
+    "voor_wie": [
+      "business analist",
+      "marketeer",
+      "sales manager",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "churn predictie",
+      "omzetprognoses",
+      "klantgedrag",
+      "no-show predictie"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": true,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_fucties": true
+    },
+    "voor": [
+      "5 minuten van data naar voorspelling",
+      "Geen ML kennis vereist",
+      "Uitleg in gewone taal"
+    ],
+    "tegen": [
+      "Duur voor kleine bedrijven",
+      "Beperkt tot klassieke ML taken",
+      "Geen gratis plan"
+    ],
+    "affiliate_url": "https://www.obviously.ai",
+    "website": "https://www.obviously.ai",
+    "logo": "/logos/obviously-ai.svg",
+    "alternativen": [
+      "akkio",
+      "julius-ai",
+      "tableau-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "lex-page",
+    "naam": "Lex",
+    "slug": "lex-page",
+    "tagline": "AI-schrijfeditor met flow-behoud en brainstorm",
+    "beschrijving": "Lex is een minimalistische schrijfeditor met ingebouwde AI die je helpt bij het overwinnen van writer's block. De AI vult zinnen aan, genereert ideeën en geeft feedback op je tekst, terwijl het de schrijfflow intact houdt. Lex is populair bij essayisten, journalisten en auteurs die een afleiding-vrije schrijfomgeving zoeken.",
+    "categorie": "AI Schrijven",
+    "categorie_slug": "ai-schrijven",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 12,
+    "rating": 4.3,
+    "reviews_aantal": 320,
+    "voor_wie": [
+      "schrijver",
+      "journalist",
+      "blogger",
+      "student"
+    ],
+    "use_cases": [
+      "essays schrijven",
+      "artikelen",
+      "long-form content",
+      "brainstormen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Minimalistische afleiding-vrije editor",
+      "AI helpt bij writer's block",
+      "Gratis te starten"
+    ],
+    "tegen": [
+      "Beperkte functies vergeleken met Notion",
+      "Geen sjablonen",
+      "Minder geschikt voor zakelijke documenten"
+    ],
+    "affiliate_url": "https://lex.page",
+    "website": "https://lex.page",
+    "logo": "/logos/lex-page.svg",
+    "alternativen": [
+      "notion-ai",
+      "jasper",
+      "sudowrite"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "mem-ai",
+    "naam": "Mem AI",
+    "slug": "mem-ai",
+    "tagline": "AI-geheugen dat je notities automatisch organiseert",
+    "beschrijving": "Mem is een AI-gedreven notitie-app die automatisch verbanden legt tussen je aantekeningen. De AI organiseert je notities zonder mappen of tags en beantwoordt vragen over je eigen kennis. Mem Chat laat je praten met je persoonlijke kennisbank. Ideaal voor kenniswerkers die veel notities maken en informatie snel willen terugvinden.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 8,
+    "rating": 4.2,
+    "reviews_aantal": 290,
+    "voor_wie": [
+      "researcher",
+      "schrijver",
+      "consultant",
+      "kenniswerker"
+    ],
+    "use_cases": [
+      "notities organiseren",
+      "kennis doorzoeken",
+      "ideeën verbinden",
+      "second brain"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": true,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Auto-organisatie zonder mappen",
+      "Praten met je eigen kennis",
+      "Zelfstandig verbanden leggen"
+    ],
+    "tegen": [
+      "Minder functies dan Notion",
+      "Beperkt gratis plan",
+      "Minder populair geworden"
+    ],
+    "affiliate_url": "https://mem.ai",
+    "website": "https://mem.ai",
+    "logo": "/logos/mem-ai.svg",
+    "alternativen": [
+      "notion-ai",
+      "obsidian",
+      "clickup-ai"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "tldv",
+    "naam": "tl;dv",
+    "slug": "tldv",
+    "tagline": "AI vergaderrecorder met slimme clips en samenvattingen",
+    "beschrijving": "tl;dv is een AI-vergadertool die Zoom, Teams en Google Meet opneemt, transcribeert en samenvat. Uniek is de mogelijkheid om 'moments' te taggen en te clippen voor later gebruik. De AI maakt automatisch een tijdlijn van beslissingen en actiepunten. Populair bij teams die hun vergaderingen willen documenteren en delen.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 18,
+    "rating": 4.5,
+    "reviews_aantal": 780,
+    "voor_wie": [
+      "manager",
+      "team lead",
+      "product manager",
+      "recruiter"
+    ],
+    "use_cases": [
+      "vergaderingen opnemen",
+      "samenvattingen",
+      "actiepunten",
+      "clips delen"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": true,
+      "nederlandstalig": true,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": true
+    },
+    "voor": [
+      "Gratis onbeperkt opnames",
+      "Clips en moments systeem",
+      "Uitstekende samenvattingen"
+    ],
+    "tegen": [
+      "Pro vereist voor CRM integraties",
+      "Zoekfunctie beperkt gratis",
+      "Soms onjuiste transcriptie"
+    ],
+    "affiliate_url": "https://tldv.io",
+    "website": "https://tldv.io",
+    "logo": "/logos/tldv.svg",
+    "alternativen": [
+      "fireflies-ai",
+      "otter-ai",
+      "fathom"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "descript",
+    "naam": "Descript",
+    "slug": "descript",
+    "tagline": "Video en podcast bewerken als tekst",
+    "beschrijving": "Descript is een revolutionaire video- en audiobewerkingstool waarbij je bewerkt door de tekst aan te passen. De automatische transcriptie zet je video om naar tekst; verwijder woorden en de video wordt bijgewerkt. Overdub klont je stem om fouten te corrigeren. Ideaal voor podcasters, YouTubers en content creators die snel video willen bewerken.",
+    "categorie": "AI Video",
+    "categorie_slug": "ai-video",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 12,
+    "rating": 4.6,
+    "reviews_aantal": 1120,
+    "voor_wie": [
+      "podcaster",
+      "YouTuber",
+      "content creator",
+      "journalist"
+    ],
+    "use_cases": [
+      "podcast bewerken",
+      "video bewerken",
+      "transcriptie",
+      "ondertitels"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Video bewerken via tekst is revolutionair",
+      "Stem klonen voor correcties",
+      "Uitstekend voor podcasts"
+    ],
+    "tegen": [
+      "Beperkte Nederlandse taalondersteuning",
+      "Gratis plan gelimiteerd",
+      "Grote bestanden zijn traag"
+    ],
+    "affiliate_url": "https://www.descript.com",
+    "website": "https://www.descript.com",
+    "logo": "/logos/descript.svg",
+    "alternativen": [
+      "runway",
+      "lumen5",
+      "invideo-ai"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "adobe-podcast",
+    "naam": "Adobe Podcast",
+    "slug": "adobe-podcast",
+    "tagline": "AI verbetert je audio kwaliteit direct",
+    "beschrijving": "Adobe Podcast (Enhance Speech) is een gratis AI-audiotool die opnames van slechte microfoonkwaliteit transformeert naar studio-geluid. De AI verwijdert achtergrondgeluid, galm en ruis. Ideaal voor podcasters, video-makers en iedereen die thuiswerkopnames wil verbeteren. Volledig gratis te gebruiken via de Adobe website.",
+    "categorie": "AI Audio",
+    "categorie_slug": "ai-audio",
+    "prijs_model": "Gratis",
+    "prijs_vanaf": 0,
+    "prijs_pro": 0,
+    "rating": 4.6,
+    "reviews_aantal": 890,
+    "voor_wie": [
+      "podcaster",
+      "YouTuber",
+      "content creator",
+      "professional"
+    ],
+    "use_cases": [
+      "audio verbeteren",
+      "ruis verwijderen",
+      "podcastproductie",
+      "voice-over kwaliteit"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": false
+    },
+    "voor": [
+      "Volledig gratis",
+      "Transformeert slechte audio naar studio kwaliteit",
+      "Geen installatie vereist"
+    ],
+    "tegen": [
+      "Alleen audio verbetering, geen creatie",
+      "Beperkt tot gesproken audio",
+      "Geen batch verwerking"
+    ],
+    "affiliate_url": "https://podcast.adobe.com",
+    "website": "https://podcast.adobe.com",
+    "logo": "/logos/adobe-podcast.svg",
+    "alternativen": [
+      "elevenlabs",
+      "murf-ai",
+      "descript"
+    ],
+    "featured": true,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "beautiful-ai",
+    "naam": "Beautiful.ai",
+    "slug": "beautiful-ai",
+    "tagline": "AI die presentatieslides automatisch opmaakt",
+    "beschrijving": "Beautiful.ai is een presentatietool waarbij de AI automatisch de layout en opmaak optimaliseert terwijl je content toevoegt. Smart Slides passen zich automatisch aan bij nieuwe content. DesignerBot genereert complete presentaties op basis van een prompt. Beschikbaar als alternatief voor PowerPoint met slimmere, automatische opmaak.",
+    "categorie": "AI Productiviteit",
+    "categorie_slug": "ai-productiviteit",
+    "prijs_model": "Betaald",
+    "prijs_vanaf": 12,
+    "prijs_pro": 40,
+    "rating": 4.3,
+    "reviews_aantal": 760,
+    "voor_wie": [
+      "sales manager",
+      "marketeer",
+      "consultant",
+      "ondernemer"
+    ],
+    "use_cases": [
+      "presentaties maken",
+      "pitch decks",
+      "rapporten",
+      "trainingen"
+    ],
+    "features": {
+      "gratis_plan": false,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": false,
+      "team_functies": true
+    },
+    "voor": [
+      "Automatische layout aanpassing",
+      "DesignerBot voor AI presentaties",
+      "Strakke templates"
+    ],
+    "tegen": [
+      "Geen gratis plan",
+      "Minder flexibel dan PowerPoint",
+      "Beperkte animaties"
+    ],
+    "affiliate_url": "https://www.beautiful.ai",
+    "website": "https://www.beautiful.ai",
+    "logo": "/logos/beautiful-ai.svg",
+    "alternativen": [
+      "gamma-app",
+      "canva-ai",
+      "microsoft-copilot"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  },
+  {
+    "id": "consensus-ai",
+    "naam": "Consensus",
+    "slug": "consensus-ai",
+    "tagline": "AI zoekmotor voor wetenschappelijke studies",
+    "beschrijving": "Consensus is een AI-zoekmachine speciaal voor wetenschappelijke literatuur. Je stelt een vraag en Consensus doorzoekt miljoenen peer-reviewed studies om evidence-based antwoorden te geven. Het Consensus Meter toont hoeveel studies het eens of oneens zijn met een claim. Onmisbaar voor studenten, onderzoekers en iedereen die evidence-based beslissingen wil nemen.",
+    "categorie": "AI Zoekmachine",
+    "categorie_slug": "ai-zoekmachine",
+    "prijs_model": "Freemium",
+    "prijs_vanaf": 0,
+    "prijs_pro": 9.99,
+    "rating": 4.6,
+    "reviews_aantal": 430,
+    "voor_wie": [
+      "onderzoeker",
+      "student",
+      "arts",
+      "journalist"
+    ],
+    "use_cases": [
+      "wetenschappelijk onderzoek",
+      "evidence zoeken",
+      "fact-checking",
+      "literatuurstudie"
+    ],
+    "features": {
+      "gratis_plan": true,
+      "api_beschikbaar": false,
+      "nederlandstalig": false,
+      "mobiele_app": false,
+      "browser_extensie": true,
+      "team_functies": false
+    },
+    "voor": [
+      "Zoekt in peer-reviewed wetenschappelijke studies",
+      "Consensus Meter voor overzicht",
+      "Gratis basis toegang"
+    ],
+    "tegen": [
+      "Alleen wetenschappelijke content",
+      "Geen Nederlandse taalondersteuning",
+      "Beperkt gratis plan"
+    ],
+    "affiliate_url": "https://consensus.app",
+    "website": "https://consensus.app",
+    "logo": "/logos/consensus-ai.svg",
+    "alternativen": [
+      "perplexity",
+      "you-com",
+      "chatgpt"
+    ],
+    "featured": false,
+    "nieuw": false,
+    "verified": true
+  }
+]

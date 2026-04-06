@@ -50,7 +50,6 @@ export default function HomePage() {
 
   return (
     <>
-      {/* Hero */}
       <section className="relative overflow-hidden">
         <div className="bg-grid-pattern absolute inset-0" />
         <div className="absolute inset-0 bg-gradient-to-b from-blue-500/5 via-transparent to-transparent" />
@@ -75,12 +74,10 @@ export default function HomePage() {
               Midjourney — ontdek welk tool bij jou past.
             </p>
 
-            {/* Search */}
             <div className="mx-auto mt-10 max-w-xl">
               <SearchBar large />
             </div>
 
-            {/* Stats */}
             <div className="mt-12 flex flex-wrap items-center justify-center gap-8">
               {[
                 { icon: <BarChart3 className="h-4 w-4" />, label: `${allTools.length} AI tools` },
@@ -103,7 +100,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Categories */}
       <section className="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
         <SectionHeader
           title="Populaire categorieën"
@@ -137,7 +133,50 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Featured tools */}
+      <section className="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
+        <SectionHeader
+          title="Populaire AI zoekopdrachten"
+          subtitle="Snelle ingangspagina's voor de categorieën en vergelijkingen waar nu veel zoekvolume op zit."
+        />
+        <div className="grid gap-6 lg:grid-cols-3">
+          {[
+            {
+              href: "/ai-image-generator",
+              title: "AI image generator",
+              desc: "Vergelijk tools zoals Midjourney, DALL·E en Leonardo AI voor visuals en creatives.",
+            },
+            {
+              href: "/ai-chatbot",
+              title: "AI chatbot",
+              desc: "Bekijk de beste AI chatbots voor support, research, content en dagelijkse productiviteit.",
+            },
+            {
+              href: "/chatgpt-alternatieven",
+              title: "ChatGPT alternatieven",
+              desc: "Ontdek wanneer Claude, Gemini, Copilot of andere tools slimmer zijn dan ChatGPT.",
+            },
+          ].map((item) => (
+            <Link
+              key={item.href}
+              href={item.href}
+              className="group rounded-2xl border border-white/10 bg-white/5 p-6 transition-all duration-300 hover:border-blue-500/30 hover:bg-white/[0.08] hover:shadow-[0_0_24px_rgba(59,130,246,0.14)]"
+            >
+              <div className="inline-flex rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-xs font-medium text-blue-300">
+                Nieuwe SEO-pagina
+              </div>
+              <h3 className="mt-4 font-[var(--font-display)] text-2xl font-semibold group-hover:text-blue-200">
+                {item.title}
+              </h3>
+              <p className="mt-3 text-sm text-muted-foreground sm:text-base">{item.desc}</p>
+              <div className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-blue-300">
+                Bekijk pagina
+                <ArrowRight className="h-4 w-4" />
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
       <section className="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
         <SectionHeader
           title="Uitgelichte AI tools"
@@ -150,7 +189,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Versus CTA */}
       <section className="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -182,7 +220,6 @@ export default function HomePage() {
         </motion.div>
       </section>
 
-      {/* Recent tools */}
       <section className="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
         <SectionHeader title="Recent toegevoegd" subtitle="De nieuwste AI tools op ToolScout." />
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -192,7 +229,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Trust section */}
       <section className="mx-auto max-w-7xl px-4 py-24 sm:px-6 lg:px-8">
         <SectionHeader
           title="Waarom ToolScout?"
